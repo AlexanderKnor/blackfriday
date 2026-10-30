@@ -6,6 +6,11 @@ merged the deal shows up on [indiegoodies.com/blackfriday](https://indiegoodies.
 
 Not comfortable editing JSON? [Submit your deal with the form](../../issues/new/choose) instead.
 
+## Before you start
+
+By contributing, you agree to the terms in [LICENSE](LICENSE): your contribution may be used by the
+maintainers, and the data may not be reused elsewhere.
+
 ## What belongs here
 
 **Indie deals only.** The product is made and sold by an independent maker or a small,

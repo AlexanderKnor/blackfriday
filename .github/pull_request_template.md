@@ -8,3 +8,4 @@
 - [ ] It's a real Black Friday / Cyber Monday discount, not the regular price.
 - [ ] The link goes straight to the product, with no affiliate or deal-site redirect.
 - [ ] I added a JSON file in this year's folder and `npm run validate` passes.
+- [ ] I agree that my contribution is licensed to the maintainers under the terms in [LICENSE](../LICENSE).

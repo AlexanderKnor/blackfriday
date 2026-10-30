@@ -17,3 +17,7 @@ scripts/validate.mjs     the check that runs on every pull request
 ```
 
 Older years stay in place, so the site can show past Black Fridays.
+
+## License
+
+See [LICENSE](LICENSE).
