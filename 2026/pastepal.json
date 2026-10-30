@@ -1,0 +1,15 @@
+{
+  "name": "PastePal",
+  "url": "https://indiegoodies.com/pastepal",
+  "description": "Universal clipboard manager for Mac, iPhone and iPad, synced through iCloud",
+  "category": "productivity",
+  "platforms": ["mac", "ios", "ipad"],
+  "deal": "50% off lifetime with code INDIEGOODIESBF26",
+  "code": "INDIEGOODIESBF26",
+  "pricing": "lifetime",
+  "price": { "regular": 14.99, "sale": 7.49, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-07",
+  "icon": "https://indiegoodies.com/icons/pastepal.png"
+}
