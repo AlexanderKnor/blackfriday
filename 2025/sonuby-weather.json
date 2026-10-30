@@ -1,0 +1,17 @@
+{
+  "name": "Sonuby Weather",
+  "url": "https://sonuby.com/download/?utm_source=indiegoodies.com&utm_medium=website&utm_campaign=indiegoodies_blackfriday",
+  "description": "Sonuby Weather is a highly customizable weather & forecast app for daily life, drone flying, sailing, health and other weather dependent activities and…",
+  "category": "lifestyle",
+  "deal": "Get 58% off the lifetime option. Just open the app and redeem the offer",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 119,
+    "sale": 50,
+    "currency": "USD"
+  },
+  "discount": 58,
+  "startDate": "2025-11-20",
+  "endDate": "2025-11-30",
+  "icon": "https://sonuby.com/favicon-512x512.png"
+}

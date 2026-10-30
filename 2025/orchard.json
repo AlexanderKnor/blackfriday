@@ -1,0 +1,21 @@
+{
+  "name": "Orchard",
+  "url": "https://orchard.5km.tech",
+  "description": "Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly,…",
+  "category": "ai",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "Pro 33% OFF, using promotion code BF2025",
+  "code": "BF2025",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 30,
+    "sale": 20,
+    "currency": "USD"
+  },
+  "discount": 33,
+  "startDate": "2025-11-20",
+  "endDate": "2025-12-02",
+  "icon": "https://orchard.5km.tech/_astro/AppIcon.C2on03wM.png"
+}

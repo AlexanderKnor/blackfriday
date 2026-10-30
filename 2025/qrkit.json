@@ -1,0 +1,21 @@
+{
+  "name": "QRKit",
+  "url": "https://useqrkit.com/",
+  "description": "Create beautiful QR codes, track detailed analytics, and manage offline campaigns effortlessly",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "Get 50% OFF your first year with code QRKIT50",
+  "code": "QRKIT50",
+  "pricing": "subscription",
+  "price": {
+    "regular": 192,
+    "sale": 96,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-21",
+  "endDate": "2025-12-02",
+  "icon": "https://useqrkit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.15e92af8.png&w=640&q=75"
+}

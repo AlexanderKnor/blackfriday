@@ -1,0 +1,20 @@
+{
+  "name": "LifePace",
+  "url": "https://apps.apple.com/us/app/lifepace-habit-streaks-tracker/id6751773159",
+  "description": "Start 2026 the right way with LifePace, the new habit tracker that turns good intentions into lasting results: create routines that fit your life, stay…",
+  "category": "lifestyle",
+  "platforms": [
+    "ios"
+  ],
+  "deal": "Lifetime unlock $7.99 (-40%)",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 12.99,
+    "sale": 7.99,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2025-11-27",
+  "endDate": "2025-12-03",
+  "icon": "https://cdf1982.com/lifepace/assets/lifepace_icon.png"
+}

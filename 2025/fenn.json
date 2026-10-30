@@ -1,0 +1,21 @@
+{
+  "name": "Fenn",
+  "url": "https://usefenn.com",
+  "description": "AI File Search Agent for MacOS",
+  "category": "ai",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "price": {
+    "regular": 199,
+    "sale": 99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-17",
+  "endDate": "2025-12-03",
+  "icon": "https://i.postimg.cc/4ybXcmjH/master-logo.png"
+}

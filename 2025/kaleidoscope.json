@@ -1,0 +1,21 @@
+{
+  "name": "Kaleidoscope",
+  "url": "https://kaleidoscope.app/&utm_source=indiegoodies.com&utm_medium=referral&utm_campaign=GOODIES25",
+  "description": "Compare and merge any text, images, and folders",
+  "category": "developer-tools",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "40% OFF for the first 2 years of subscription + 2 extra free months with code GOODIES25",
+  "code": "GOODIES25",
+  "pricing": "subscription",
+  "price": {
+    "regular": 96,
+    "sale": 58,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2025-11-22",
+  "endDate": "2025-12-03",
+  "icon": "https://cloud.kaleidoscope.app/kaleidoscope-256@2x.png"
+}

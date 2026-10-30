@@ -1,0 +1,20 @@
+{
+  "name": "Pasta",
+  "url": "https://apple.co/46omrEk",
+  "description": "Visual Clipboard Manager for your Mac",
+  "category": "productivity",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "Lifetime Pro $9.99 -> $4.99",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 9.99,
+    "sale": 4.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-28",
+  "endDate": "2025-12-02",
+  "icon": "https://wessley.me/resources/appicons/Pasta.png"
+}

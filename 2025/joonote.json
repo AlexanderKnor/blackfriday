@@ -1,0 +1,19 @@
+{
+  "name": "Joonote",
+  "url": "https://play.google.com/store/apps/details?id=com.kyw.joonote",
+  "description": "A note-taking app in your lockscreen",
+  "category": "writing",
+  "platforms": [
+    "android"
+  ],
+  "deal": "25% OFF",
+  "pricing": "one-time",
+  "price": {
+    "regular": 12,
+    "sale": 9,
+    "currency": "USD"
+  },
+  "discount": 25,
+  "startDate": "2025-11-24",
+  "endDate": "2025-12-10"
+}

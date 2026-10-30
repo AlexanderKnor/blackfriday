@@ -1,0 +1,22 @@
+{
+  "name": "Motionik",
+  "url": "https://motionik.com",
+  "description": "Beautiful screen recording for Windows & macOS with a built-in editor for creating engaging product demos & tutorials with auto zoom, cursor effects & more",
+  "category": "media",
+  "platforms": [
+    "mac",
+    "windows"
+  ],
+  "deal": "50% OFF lifetime plan with code BF50",
+  "code": "BF50",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 60,
+    "sale": 30,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-21",
+  "endDate": "2025-11-30",
+  "icon": "https://motionik.com/_next/static/media/logo512-mac.03728c10.png"
+}

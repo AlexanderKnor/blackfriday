@@ -1,0 +1,21 @@
+{
+  "name": "ListingBott",
+  "url": "https://listingbott.com/",
+  "description": "ListingBott is an automated submission tool that helps founders and creators instantly list their SaaS, product, newsletter, or blog across 100+ directories…",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "20% OFF first payment, code JOHNRUSH",
+  "code": "JOHNRUSH",
+  "pricing": "subscription",
+  "price": {
+    "regular": 499,
+    "sale": 399,
+    "currency": "USD"
+  },
+  "discount": 20,
+  "startDate": "2025-11-21",
+  "endDate": "2025-12-07",
+  "icon": "https://unicorn-images.b-cdn.net/c6a6123f-741e-4d9d-9e0a-c1c9fb6d6f97"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "KeygenGo",
+  "url": "https://keygengo.5km.tech",
+  "description": "A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface",
+  "category": "developer-tools",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "One time purchase 50% off",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 40,
+    "sale": 20,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-20",
+  "endDate": "2025-12-02",
+  "icon": "https://keygengo.5km.tech/icon.png"
+}

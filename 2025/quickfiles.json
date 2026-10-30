@@ -1,0 +1,20 @@
+{
+  "name": "QuickFiles",
+  "url": "https://apps.apple.com/app/id6747291202",
+  "description": "Meet QuickFiles, a powerful tool that lets you effortlessly access your most important files directly from the menu bar",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "QuickFiles Premium 50% Discount",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 3,
+    "sale": 1,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-03",
+  "endDate": "2025-12-02",
+  "icon": "https://impresskit.net/media/press-kit-icons/QuickFiles_App_Icon.png"
+}

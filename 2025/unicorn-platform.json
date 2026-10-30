@@ -1,0 +1,21 @@
+{
+  "name": "Unicorn Platform",
+  "url": "https://unicornplatform.com/",
+  "description": "Unicorn Platform is an AI-powered website builder that lets you create beautiful, high-converting websites for SaaS, apps, directories, blogs, and personal…",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "20% OFF first payment, code JOHNRUSH",
+  "code": "JOHNRUSH",
+  "pricing": "subscription",
+  "price": {
+    "regular": 9,
+    "sale": 7,
+    "currency": "USD"
+  },
+  "discount": 20,
+  "startDate": "2025-11-21",
+  "endDate": "2025-12-07",
+  "icon": "https://unicorn-images.b-cdn.net/5c70ff16-1683-4ad6-b2ac-a999843b1e04"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "FunKey",
+  "url": "https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677",
+  "description": "Transform your Mac typing experience with FunKey, the ultimate mechanical keyboard sound simulator",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "Black Friday Deal! Get FunKey for just $1.99 (50% OFF)",
+  "price": {
+    "regular": 4,
+    "sale": 2,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-27",
+  "endDate": "2025-12-08",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/b9/06/c3b906ca-acdc-9887-6eda-caf1bc7f2adc/Placeholder.mill/400x400bb-75.webp"
+}

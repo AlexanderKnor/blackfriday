@@ -1,0 +1,22 @@
+{
+  "name": "Everlog",
+  "url": "https://apple.co/3pmdUCn",
+  "description": "Full-featured journaling app for iPhone, iPad and Mac",
+  "category": "writing",
+  "platforms": [
+    "ios",
+    "ipad",
+    "mac"
+  ],
+  "deal": "Lifetime Premium $44.99 -> 24.99",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 44.99,
+    "sale": 24.99,
+    "currency": "USD"
+  },
+  "discount": 44,
+  "startDate": "2025-11-28",
+  "endDate": "2025-12-02",
+  "icon": "https://wessley.me/resources/appicons/Everlog.png"
+}

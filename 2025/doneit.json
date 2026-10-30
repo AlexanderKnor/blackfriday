@@ -1,0 +1,22 @@
+{
+  "name": "Doneit",
+  "url": "https://apps.apple.com/us/app/id1540325366",
+  "description": "Doneit offers a variety of tasks views, such as list, grid, board, and timeline to help you manage your tasks and projects of any complexity with ease",
+  "category": "productivity",
+  "platforms": [
+    "ios",
+    "ipad",
+    "mac"
+  ],
+  "deal": "Doneit Premium Lifetime 50% Discount",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 20,
+    "sale": 10,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-03",
+  "endDate": "2025-12-02",
+  "icon": "https://impresskit.net/media/press-kit-icons/App_Icon_mP6pNhT.png"
+}

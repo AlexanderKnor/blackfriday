@@ -1,0 +1,13 @@
+[
+  { "slug": "productivity", "name": "Productivity", "description": "Tasks, planning, clipboard and everyday helpers" },
+  { "slug": "utilities", "name": "Utilities", "description": "Small tools that make your Mac and devices better" },
+  { "slug": "writing", "name": "Notes & Writing", "description": "Notes, journaling and writing apps" },
+  { "slug": "ai", "name": "AI", "description": "AI assistants, dictation and AI-powered tools" },
+  { "slug": "developer-tools", "name": "Developer Tools", "description": "Tools, UI kits and boilerplates for builders" },
+  { "slug": "design", "name": "Design", "description": "Design, screenshots and visual tools" },
+  { "slug": "media", "name": "Photo, Video & Audio", "description": "Create and edit photos, videos and audio" },
+  { "slug": "marketing", "name": "Marketing & SEO", "description": "Grow your product: SEO, social, ads and analytics" },
+  { "slug": "business", "name": "Business & Finance", "description": "Invoices, budgets, subscriptions and operations" },
+  { "slug": "lifestyle", "name": "Health & Lifestyle", "description": "Health, travel, weather and everyday life" },
+  { "slug": "education", "name": "Learning", "description": "Courses, books, communities and learning apps" }
+]

@@ -1,0 +1,67 @@
+name: Submit a deal
+description: Submit your indie Black Friday deal without editing JSON.
+title: "Deal: "
+labels: ["new deal"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Product name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link to the deal
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: What does it do?
+      description: One line, up to 160 characters.
+    validations:
+      required: true
+  - type: input
+    id: deal
+    attributes:
+      label: The deal
+      placeholder: 50% off lifetime with code BF26
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Productivity
+        - Utilities
+        - Notes & Writing
+        - AI
+        - Developer Tools
+        - Design
+        - Photo, Video & Audio
+        - Marketing & SEO
+        - Business & Finance
+        - Health & Lifestyle
+        - Learning
+    validations:
+      required: true
+  - type: input
+    id: dates
+    attributes:
+      label: Start and end dates
+      placeholder: 2026-11-20 to 2026-12-02
+  - type: input
+    id: icon
+    attributes:
+      label: Icon URL
+      description: A direct link to a square icon.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I'm the maker (or have their go-ahead), and it's an indie or small self-funded product.
+          required: true

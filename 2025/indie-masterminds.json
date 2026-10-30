@@ -1,0 +1,21 @@
+{
+  "name": "Indie Masterminds",
+  "url": "https://indiemasterminds.com/",
+  "description": "Indie Masterminds is a dynamic community for entrepreneurs, offering premium courses, co-working sessions, and networking opportunities to help indie founders…",
+  "category": "education",
+  "platforms": [
+    "web"
+  ],
+  "deal": "This Black Friday, get 50% off Indie Masterminds with code BFCM25",
+  "code": "BFCM25",
+  "pricing": "subscription",
+  "price": {
+    "regular": 99,
+    "sale": 50,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-17",
+  "endDate": "2025-12-04",
+  "icon": "https://indiemasterminds.com/assets/images/image01.png?v=a33bc785"
+}

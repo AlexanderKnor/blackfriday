@@ -1,0 +1,20 @@
+{
+  "name": "ShipAhead",
+  "url": "https://shipahe.ad",
+  "description": "Build your AI SaaS Startup in days, not months",
+  "category": "developer-tools",
+  "platforms": [
+    "web"
+  ],
+  "deal": "40% OFF with code BF2025",
+  "code": "BF2025",
+  "pricing": "one-time",
+  "price": {
+    "regular": 199,
+    "sale": 119,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "endDate": "2025-12-01",
+  "icon": "https://shipahe.ad/favicon.ico"
+}

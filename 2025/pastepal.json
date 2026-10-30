@@ -1,0 +1,22 @@
+{
+  "name": "PastePal",
+  "url": "https://indiegoodies.com/pastepal",
+  "description": "PastePal is the best universal clipboard manager for Mac, iPhone and iPad",
+  "category": "productivity",
+  "platforms": [
+    "mac",
+    "ios",
+    "ipad"
+  ],
+  "deal": "50% off",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 15,
+    "sale": 8,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-20",
+  "endDate": "2025-12-07",
+  "icon": "https://indiegoodies.com/icons/pastepal.png"
+}

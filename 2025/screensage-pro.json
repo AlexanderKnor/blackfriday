@@ -1,0 +1,20 @@
+{
+  "name": "ScreenSage Pro",
+  "url": "https://screensage.pro",
+  "description": "Pro videos, instantly. The Auto-Zoom Mac screen recorder for everyone",
+  "category": "media",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "53% OFF with code BFS2025L",
+  "code": "BFS2025L",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 449,
+    "sale": 209,
+    "currency": "USD"
+  },
+  "discount": 53,
+  "startDate": "2025-11-12",
+  "endDate": "2025-12-12"
+}

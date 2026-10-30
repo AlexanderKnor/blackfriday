@@ -1,0 +1,20 @@
+{
+  "name": "PostNitro",
+  "url": "https://postnitro.ai/",
+  "description": "PostNitro is an AI-powered social media content generator that helps creators, marketers, and businesses create stunning, scroll-stopping carousels, carousel…",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "Recurring 40% off annual and 20% off monthly on Creator and Team plans during Black Friday",
+  "pricing": "subscription",
+  "price": {
+    "regular": 20,
+    "sale": 12,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2025-11-01",
+  "endDate": "2025-11-30",
+  "icon": "https://postnitro.ai/images/avatar.png"
+}

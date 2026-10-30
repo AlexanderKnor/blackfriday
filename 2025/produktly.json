@@ -1,0 +1,21 @@
+{
+  "name": "Produktly",
+  "url": "https://produktly.com/",
+  "description": "Your all-in-one platform for product-led growth",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "40% off everything with code BF2025",
+  "pricing": "subscription",
+  "price": {
+    "regular": 19,
+    "sale": 11,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "code": "BF2025",
+  "startDate": "2025-11-22",
+  "endDate": "2025-11-30",
+  "icon": "https://produktly.com/android-chrome-512x512.png"
+}

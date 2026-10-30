@@ -1,0 +1,20 @@
+{
+  "name": "Vidimote",
+  "url": "https://www.iospirit.com/products/vidimote/",
+  "description": "Advanced playback and speed controls for web videos in Safari. For Safari on iOS and macOS",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "33% OFF. Now just $1.99 instead of $2.99!",
+  "pricing": "one-time",
+  "price": {
+    "regular": 3,
+    "sale": 2,
+    "currency": "USD"
+  },
+  "discount": 33,
+  "startDate": "2025-11-26",
+  "endDate": "2025-12-02",
+  "icon": "https://www.iospirit.com/products/vidimote/images/icon-128x128~72de29ecfde5156f0238a74a8de1f7ba310da71f.png"
+}

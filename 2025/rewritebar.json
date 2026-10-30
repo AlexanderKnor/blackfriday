@@ -1,0 +1,15 @@
+{
+  "name": "RewriteBar",
+  "url": "https://rewritebar.com",
+  "description": "Improve your writing in any macOS application with AI assistance. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and…",
+  "category": "ai",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% OFF on all plans",
+  "pricing": "lifetime",
+  "discount": 50,
+  "startDate": "2025-11-20",
+  "endDate": "2025-12-02",
+  "icon": "https://rewritebar.com/icon.png"
+}

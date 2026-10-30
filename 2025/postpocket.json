@@ -1,0 +1,19 @@
+{
+  "name": "PostPocket",
+  "url": "https://apps.apple.com/us/app/bookmark-links-postpocket/id6670723615",
+  "description": "Save everything you love in one clean space and access it instantly across all your devices",
+  "category": "productivity",
+  "platforms": [
+    "ios"
+  ],
+  "deal": "70% OFF Lifetime",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 16,
+    "sale": 5,
+    "currency": "USD"
+  },
+  "discount": 70,
+  "startDate": "2025-11-22",
+  "endDate": "2025-12-04"
+}

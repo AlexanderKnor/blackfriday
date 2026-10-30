@@ -1,0 +1,20 @@
+{
+  "name": "Umami Manager",
+  "url": "https://apps.apple.com/de/app/umami-analytics-manager/id6462423358",
+  "description": "Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS",
+  "category": "developer-tools",
+  "platforms": [
+    "ios"
+  ],
+  "deal": "25% off lifetime",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 20,
+    "sale": 15,
+    "currency": "USD"
+  },
+  "discount": 25,
+  "startDate": "2025-11-28",
+  "endDate": "2025-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/d6/8c/b6d68c47-1e56-181f-0078-652d53bb7334/Placeholder.mill/400x400bb-75.webp"
+}

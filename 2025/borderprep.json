@@ -1,0 +1,13 @@
+{
+  "name": "BorderPrep",
+  "url": "https://borderprep.com",
+  "description": "Arrive Ready for Any Country",
+  "category": "lifestyle",
+  "platforms": [
+    "web"
+  ],
+  "deal": "50% OFF product feature site-wide",
+  "discount": 50,
+  "endDate": "2025-12-01",
+  "icon": "https://borderprep.com/favicon.ico"
+}

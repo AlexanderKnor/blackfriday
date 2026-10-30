@@ -1,0 +1,15 @@
+{
+  "name": "CleanClip",
+  "url": "https://cleanclip.cc/",
+  "description": "The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage",
+  "category": "productivity",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "30% OFF with code BFC2025",
+  "code": "BFC2025",
+  "discount": 30,
+  "startDate": "2025-11-07",
+  "endDate": "2025-12-07",
+  "icon": "https://ios.cleanclip.cc/logo.png"
+}

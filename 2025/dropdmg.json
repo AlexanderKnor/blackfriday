@@ -1,0 +1,21 @@
+{
+  "name": "DropDMG",
+  "url": "https://c-command.com/dropdmg/",
+  "description": "The easiest way to create and work with Mac disk images (.dmg files)",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "25% off with code BLACKFRIDAY2025",
+  "code": "BLACKFRIDAY2025",
+  "pricing": "one-time",
+  "price": {
+    "regular": 25,
+    "sale": 19,
+    "currency": "USD"
+  },
+  "discount": 25,
+  "startDate": "2025-11-21",
+  "endDate": "2025-12-01",
+  "icon": "https://c-command.com/dropdmg/images/dropdmg-icon%402x.png"
+}

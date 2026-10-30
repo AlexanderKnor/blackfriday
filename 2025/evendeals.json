@@ -1,0 +1,17 @@
+{
+  "name": "Evendeals",
+  "url": "https://evendeals.com",
+  "description": "Increase your sales by upto 30% with parity pricing",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "60% OFF Evendeals Lifetime",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 99,
+    "sale": 39,
+    "currency": "USD"
+  },
+  "discount": 60
+}

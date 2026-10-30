@@ -1,0 +1,20 @@
+{
+  "name": "Spencer",
+  "url": "https://macspencer.app",
+  "description": "Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "40% OFF - Lifetime Deal",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 20,
+    "sale": 12,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2025-11-27",
+  "endDate": "2025-12-03",
+  "icon": "https://www.canva.com/design/DAG5uM012Sg/DJqZ98nhX7MneSkCO1d6Ow/view?utm_content=DAG5uM012Sg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h12d819f3a5"
+}

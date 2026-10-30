@@ -1,0 +1,21 @@
+{
+  "name": "Reckord",
+  "url": "https://apps.apple.com/us/app/id6744819252",
+  "description": "Reckord helps users to create professional invoices in seconds, manage income and expenses, and track their business performance",
+  "category": "business",
+  "platforms": [
+    "ios"
+  ],
+  "deal": "70% off on Lifetime plan($49.99 -> $14.99) with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 49.99,
+    "sale": 14.99,
+    "currency": "USD"
+  },
+  "discount": 70,
+  "startDate": "2025-11-17",
+  "endDate": "2025-12-05",
+  "icon": "https://reckord.app/reckord.png"
+}

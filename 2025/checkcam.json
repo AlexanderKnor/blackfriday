@@ -1,0 +1,21 @@
+{
+  "name": "CheckCam",
+  "url": "https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=indiegoodies&mt=8",
+  "description": "CheckCam is a minimalist camera app for life's small but important moments. Capture temporary photos and videos that won't clutter your main library",
+  "category": "media",
+  "platforms": [
+    "ios"
+  ],
+  "deal": "60% OFF for Lifetime Access with code BF2025",
+  "code": "BF2025",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 15,
+    "sale": 6,
+    "currency": "USD"
+  },
+  "discount": 60,
+  "startDate": "2025-11-26",
+  "endDate": "2025-12-03",
+  "icon": "https://zorrinapps.com/checkcam/assets/icons/AppIcon_2.webp"
+}

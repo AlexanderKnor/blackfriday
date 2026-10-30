@@ -1,0 +1,20 @@
+{
+  "name": "PDF Image Xtractor",
+  "url": "https://apptyrant.com/product/pdfimage-xtractor/",
+  "description": "PDF Image Xtractor is the fastest, easiest, and most affordable way to get images out of PDF files on macOS",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% Off - One Time Purchase",
+  "pricing": "one-time",
+  "price": {
+    "regular": 20,
+    "sale": 10,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-25",
+  "endDate": "2025-12-03",
+  "icon": "https://apptyrant.com/wordpress/wp-content/uploads/2025/10/PDFImageEXtractorMacAppIcon.webp"
+}

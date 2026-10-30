@@ -1,0 +1,18 @@
+{
+  "name": "Cozy Watch",
+  "url": "https://www.cozywatch.com",
+  "description": "Cozy Watch keeps you in the flow by showing the GitHub notifications that matter",
+  "category": "developer-tools",
+  "deal": "$4 OFF - use code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 9,
+    "sale": 5,
+    "currency": "USD"
+  },
+  "discount": 44,
+  "startDate": "2025-11-17",
+  "endDate": "2025-11-30",
+  "icon": "https://www.cozywatch.com/armchair.png"
+}

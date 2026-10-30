@@ -1,0 +1,20 @@
+{
+  "name": "PromptKit",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025",
+  "description": "AI Prompt Generator & Library",
+  "category": "ai",
+  "platforms": [
+    "ios"
+  ],
+  "deal": "55% OFF Annual Subscription",
+  "pricing": "subscription",
+  "price": {
+    "regular": 35,
+    "sale": 15,
+    "currency": "USD"
+  },
+  "discount": 55,
+  "startDate": "2025-11-25",
+  "endDate": "2025-12-02",
+  "icon": "https://www.dropbox.com/scl/fi/61qylerrylj9e88ihnrsx/promptkit-icon.png?rlkey=3wfsjbj0cyvmz5zga6yo9w0la&dl=0"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Itemlist",
+  "url": "https://apps.apple.com/app/apple-store/id1548649551",
+  "description": "Itemlist is a powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon)",
+  "category": "business",
+  "platforms": [
+    "ios"
+  ],
+  "deal": "50% off Lifetime Pro",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 59.99,
+    "sale": 29.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-20",
+  "endDate": "2025-12-07",
+  "icon": "https://impresskit.net/media/press-kit-images/Itemlist_Icon.png"
+}

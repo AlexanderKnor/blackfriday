@@ -1,0 +1,21 @@
+{
+  "name": "Gem Rank",
+  "url": "https://gemrank.co",
+  "description": "This product acts as an analytics and monitoring layer for your brand’s presence inside major AI assistants like ChatGPT, Gemini, Claude, and Perplexity",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "50% off lifetime deals with code BFCM2025",
+  "code": "BFCM2025",
+  "pricing": "one-time",
+  "price": {
+    "regular": 129,
+    "sale": 69,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-18",
+  "endDate": "2025-12-02",
+  "icon": "https://gemrank.co/logo.png"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Buildsheet",
+  "url": "https://buildsheet.one",
+  "description": "A visual cheatsheet builder that helps you turn scattered notes into structured masterpieces",
+  "category": "productivity",
+  "platforms": [
+    "web"
+  ],
+  "deal": "Use code BLACKFRIDAY25 at checkout and get 25% off your plan",
+  "code": "BLACKFRIDAY25",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 10,
+    "sale": 7,
+    "currency": "USD"
+  },
+  "discount": 25,
+  "startDate": "2025-11-19",
+  "endDate": "2025-12-07",
+  "icon": "https://buildsheet.one/icon.svg"
+}

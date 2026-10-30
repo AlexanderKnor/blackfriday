@@ -1,0 +1,21 @@
+{
+  "name": "Calorific",
+  "url": "https://apps.apple.com/app/apple-store/id6645043253",
+  "description": "Quickly capture your meals and get instant nutritional insights with AI",
+  "category": "lifestyle",
+  "platforms": [
+    "ios"
+  ],
+  "deal": "Use code BLACKFRIDAY in the app to get 30% off the yearly plan",
+  "code": "BLACKFRIDAY",
+  "pricing": "subscription",
+  "price": {
+    "regular": 50,
+    "sale": 35,
+    "currency": "USD"
+  },
+  "discount": 30,
+  "startDate": "2025-11-17",
+  "endDate": "2025-12-02",
+  "icon": "https://i.imgur.com/D4maMrt.png"
+}

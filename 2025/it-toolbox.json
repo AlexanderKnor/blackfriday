@@ -1,0 +1,24 @@
+{
+  "name": "it Toolbox",
+  "url": "https://apps.designtech.so/checkout/buy/ecaeabbe-62aa-404d-8ea7-37d53ba0c8a9",
+  "description": "Meet it Toolbox, a suite of native apps for iPhone, iPad, Mac, and Apple Watch that combines Doneit, Accountit, and Creativit apps into one simple subscription",
+  "category": "productivity",
+  "platforms": [
+    "ios",
+    "ipad",
+    "mac",
+    "vision"
+  ],
+  "deal": "it Toolbox Premium 50% Discount with a Code: BLACKFRIDAY50",
+  "code": "BLACKFRIDAY50",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 19,
+    "sale": 10,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-03",
+  "endDate": "2025-12-02",
+  "icon": "https://impresskit.net/media/press-kit-icons/it_Toolbox.png"
+}

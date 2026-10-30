@@ -1,0 +1,19 @@
+{
+  "name": "saasbrella",
+  "url": "https://www.saasbrella.co/?utm_source=indiegoodies",
+  "description": "saasbrella is your ultimate shortcut to launching a high-quality SaaS application",
+  "category": "developer-tools",
+  "platforms": [
+    "web"
+  ],
+  "deal": "Lifetime Pro plan for $99 with 10 years of hosting",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 3900,
+    "sale": 99,
+    "currency": "USD"
+  },
+  "discount": 97,
+  "startDate": "2025-11-25",
+  "endDate": "2025-12-24"
+}

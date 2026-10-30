@@ -1,0 +1,21 @@
+{
+  "name": "TypingMind",
+  "url": "https://www.typingmind.com/?utm_source=indiegoodies",
+  "description": "Professional Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder,…",
+  "category": "ai",
+  "platforms": [
+    "web"
+  ],
+  "deal": "60% OFF Lifetime with code BLACKFRIDAY2025",
+  "code": "BLACKFRIDAY2025",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 198,
+    "sale": 79,
+    "currency": "USD"
+  },
+  "discount": 60,
+  "startDate": "2025-11-05",
+  "endDate": "2025-12-01",
+  "icon": "https://www.typingmind.com/logo.png"
+}

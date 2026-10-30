@@ -1,0 +1,18 @@
+{
+  "name": "Favourites.io",
+  "url": "https://favourites.io",
+  "description": "Search, Organize and Export your X/Twitter Likes and Bookmarks",
+  "category": "productivity",
+  "platforms": [
+    "web"
+  ],
+  "deal": "50% OFF Annual Plans - €19/ year instead of €39/year",
+  "pricing": "subscription",
+  "price": {
+    "regular": 39,
+    "sale": 19,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "icon": "https://favourites.io"
+}

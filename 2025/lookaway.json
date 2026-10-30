@@ -1,0 +1,21 @@
+{
+  "name": "LookAway",
+  "url": "https://lookaway.com/",
+  "description": "LookAway is a smart break reminder that helps reduce eye strain, digital fatigue, and maintain better posture—so you can end your day feeling fresh",
+  "category": "lifestyle",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off with code BFCM25",
+  "pricing": "one-time",
+  "price": {
+    "regular": 38,
+    "sale": 19,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "code": "BFCM25",
+  "startDate": "2025-11-26",
+  "endDate": "2025-12-01",
+  "icon": "https://lookaway.com/images/icon--top.png"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Almighty",
+  "url": "https://indiegoodies.com/almighty",
+  "description": "Over 50 cool Mac tweaks and extra utilities to supercharge your Mac experience",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off using code INDIEGOODIESBF25",
+  "code": "INDIEGOODIESBF25",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 20,
+    "sale": 10,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-20",
+  "endDate": "2025-12-07",
+  "icon": "https://indiegoodies.com/icons/almighty.png"
+}

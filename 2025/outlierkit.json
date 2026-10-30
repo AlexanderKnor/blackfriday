@@ -1,0 +1,21 @@
+{
+  "name": "OutlierKit",
+  "url": "https://outlierkit.com/app/pricing",
+  "description": "AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "30% OFF on All Plans. Use the code: BFCM25",
+  "code": "BFCM25",
+  "pricing": "subscription",
+  "price": {
+    "regular": 19,
+    "sale": 13,
+    "currency": "USD"
+  },
+  "discount": 30,
+  "startDate": "2025-11-17",
+  "endDate": "2025-12-04",
+  "icon": "https://outlierkit.com/logo_3_.svg"
+}

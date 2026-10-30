@@ -1,0 +1,22 @@
+{
+  "name": "Transloader",
+  "url": "https://eternalstorms.at/transloader",
+  "description": "Manage downloads on your Mac, remotely from your iPhone, iPad, and other Macs",
+  "category": "utilities",
+  "platforms": [
+    "mac",
+    "ios",
+    "ipad"
+  ],
+  "deal": "60% off (one-time lifetime purchase)",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 10,
+    "sale": 4,
+    "currency": "USD"
+  },
+  "discount": 60,
+  "startDate": "2025-11-27",
+  "endDate": "2025-12-01",
+  "icon": "https://eternalstorms.at/img/transloader_new.webp"
+}

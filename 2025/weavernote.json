@@ -1,0 +1,20 @@
+{
+  "name": "Weavernote",
+  "url": "https://weavernote.com",
+  "description": "Imagine Google Keep but better with connected notes, better organization, and AI — transcription, flashcards, quizzes, concept maps, knowledge-gap finder & more",
+  "category": "writing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "40% OFF ON ALL PLANS",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 250,
+    "sale": 150,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2025-11-15",
+  "endDate": "2025-12-05",
+  "icon": "https://weavernote.com/logo.webp"
+}

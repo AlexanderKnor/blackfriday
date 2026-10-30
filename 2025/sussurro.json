@@ -1,0 +1,22 @@
+{
+  "name": "Sussurro",
+  "url": "https://apps.apple.com/us/app/sussurro-speech-to-text-ai/id6742109110",
+  "description": "Sussurro (Italian for Whisper) is a Mac, iPhone & iPad app for private audio-to-text transcription using OpenAI’s Whisper models, running entirely on-device…",
+  "category": "ai",
+  "platforms": [
+    "mac",
+    "ios",
+    "ipad"
+  ],
+  "deal": "Pro Forever $ 2.99 (-40%)",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 4.99,
+    "sale": 2.99,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2025-11-27",
+  "endDate": "2025-12-03",
+  "icon": "https://www.indieappsales.com/indieappsales/icons/a74941e4-7298-416e-94ba-08d4dff7569e/CEF1B4D6-98D3-4891-97FE-FFE6CEEBF7CD"
+}

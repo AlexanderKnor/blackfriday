@@ -1,0 +1,21 @@
+{
+  "name": "AIScraper",
+  "url": "https://aiscraper.co/",
+  "description": "AIScraper is a fast, AI-powered data extraction tool that lets you pull structured information from any website in seconds — no coding, no scraping scripts, no…",
+  "category": "developer-tools",
+  "platforms": [
+    "web"
+  ],
+  "deal": "20% OFF first payment, code JOHNRUSH",
+  "code": "JOHNRUSH",
+  "pricing": "subscription",
+  "price": {
+    "regular": 6,
+    "sale": 5,
+    "currency": "USD"
+  },
+  "discount": 20,
+  "startDate": "2025-11-21",
+  "endDate": "2025-12-07",
+  "icon": "https://media.licdn.com/dms/image/v2/D4E0BAQE4NvzmVh5pEA/company-logo_200_200/B4EZi8hAz5HEAI-/0/1755509428044?e=1764806400&v=beta&t=TCe4IWaWvXSZzg8FVQk3AW2YaXtAkKZyrVjTjaK3Z9c"
+}

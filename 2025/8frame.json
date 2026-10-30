@@ -1,0 +1,21 @@
+{
+  "name": "8Frame",
+  "url": "https://www.8frame.co/",
+  "description": "Bringing top GenAI tools, real-time collaboration, and an agentic co-pilot into one intuitive workflow helping teams create scroll-stopping content…",
+  "category": "design",
+  "platforms": [
+    "web"
+  ],
+  "deal": "20% off with code BF20",
+  "code": "BF20",
+  "pricing": "subscription",
+  "price": {
+    "regular": 19,
+    "sale": 15,
+    "currency": "USD"
+  },
+  "discount": 20,
+  "startDate": "2025-11-20",
+  "endDate": "2025-11-30",
+  "icon": "https://i.postimg.cc/j55DkPJd/8f-icon.png"
+}

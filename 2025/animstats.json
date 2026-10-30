@@ -1,0 +1,15 @@
+{
+  "name": "AnimStats",
+  "url": "https://animstats.com",
+  "description": "Create viral animated GIFs/Videos, AI Shorts, and UGC ads - then post directly to YouTube, Instagram & TikTok from one platform",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "Black Friday offer 50%",
+  "pricing": "subscription",
+  "discount": 50,
+  "startDate": "2025-11-25",
+  "endDate": "2025-12-02",
+  "icon": "https://cdn-1.webcatalog.io/catalog/animstats/animstats-icon-filled-256.png"
+}

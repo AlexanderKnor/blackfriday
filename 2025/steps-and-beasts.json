@@ -1,0 +1,20 @@
+{
+  "name": "Steps & Beasts",
+  "url": "https://apps.apple.com/app/id6670788226",
+  "description": "Collect cute creatures by walking 🐣",
+  "category": "lifestyle",
+  "platforms": [
+    "ios"
+  ],
+  "deal": "33% OFF on Lifetime - In App Purchase",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 29,
+    "sale": 19,
+    "currency": "USD"
+  },
+  "discount": 33,
+  "startDate": "2025-11-01",
+  "endDate": "2025-11-30",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/56/2d/56562d95-bd0c-2eb1-8baf-8ee602176fbd/Placeholder.mill/400x400bb-75.webp"
+}

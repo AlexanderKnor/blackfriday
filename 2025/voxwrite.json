@@ -1,0 +1,21 @@
+{
+  "name": "VoxWrite",
+  "url": "https://voxwrite.app",
+  "description": "Voice-to-Text Chrome Extension with AI transformation that turns your messy voice into polished, clear text — translated, styled, with perfect punctuation and…",
+  "category": "ai",
+  "platforms": [
+    "chrome"
+  ],
+  "deal": "30% off on Lifetime Plan using code BF2025",
+  "code": "BF2025",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 46,
+    "sale": 32,
+    "currency": "USD"
+  },
+  "discount": 30,
+  "startDate": "2025-11-21",
+  "endDate": "2025-11-30",
+  "icon": "https://cdn-1.voxwrite.app/static/public/favicon-512x512.png"
+}

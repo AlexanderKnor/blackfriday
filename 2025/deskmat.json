@@ -1,0 +1,20 @@
+{
+  "name": "DeskMat",
+  "url": "https://eternalstorms.at/DeskMat",
+  "description": "Cover your messy desktop with ease, for nicer streams, better video conferencing and distraction-free work",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off (one-time lifetime purchase)",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 4,
+    "sale": 2,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-27",
+  "endDate": "2025-12-01",
+  "icon": "https://eternalstorms.at/img/deskmat.webp"
+}

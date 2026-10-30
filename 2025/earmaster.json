@@ -1,0 +1,17 @@
+{
+  "name": "EarMaster",
+  "url": "https://www.earmaster.com",
+  "description": "Music theory made easy and fun: EarMaster is the ultimate app for your ear training, sight-singing practice, rhythmic workout and vocal training at all skill…",
+  "category": "education",
+  "deal": "Black Friday 50% Off Sale",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 44,
+    "sale": 22,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-24",
+  "endDate": "2025-12-01",
+  "icon": "https://www.earmaster.com/images/press/EarMaster_appIcon_LoRes.png"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ChampSignal",
+  "url": "https://champsignal.com",
+  "description": "Get the insights your competitors don't want you to have. ChampSignal tracks your competitors' websites, social mentions, ads, and SEO, and sends you email…",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "25% OFF all plans with code BF2025",
+  "code": "BF2025",
+  "pricing": "subscription",
+  "price": {
+    "regular": 99,
+    "sale": 74,
+    "currency": "USD"
+  },
+  "discount": 25,
+  "startDate": "2025-11-17",
+  "endDate": "2025-11-30",
+  "icon": "https://champsignal.com/images/global/icon-light.png"
+}

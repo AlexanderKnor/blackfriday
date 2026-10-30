@@ -1,0 +1,17 @@
+name: Report a problem
+description: A deal is wrong, has ended early, or isn't from an indie maker.
+title: "Fix: "
+labels: ["correction"]
+body:
+  - type: input
+    id: deal
+    attributes:
+      label: Which deal?
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+    validations:
+      required: true

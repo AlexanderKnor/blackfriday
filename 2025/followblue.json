@@ -1,0 +1,20 @@
+{
+  "name": "FollowBlue",
+  "url": "https://followblue.app",
+  "description": "FollowBlue helps you grow your Bluesky audience with smart automated follows that connect you with real users — not bots",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "30% off for 3 months",
+  "pricing": "subscription",
+  "price": {
+    "regular": 25,
+    "sale": 18,
+    "currency": "USD"
+  },
+  "discount": 30,
+  "startDate": "2025-11-25",
+  "endDate": "2025-11-30",
+  "icon": "https://app.followblue.app/avatar2.png"
+}

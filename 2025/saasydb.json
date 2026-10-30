@@ -1,0 +1,21 @@
+{
+  "name": "SaaSyDB",
+  "url": "https://saasydb.com",
+  "description": "a SaaS company database for marketers",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "30% OFF on all plans with discount code BF30 from November 25- December 02",
+  "code": "BF30",
+  "pricing": "one-time",
+  "price": {
+    "regular": 997,
+    "sale": 698,
+    "currency": "USD"
+  },
+  "discount": 30,
+  "startDate": "2025-11-25",
+  "endDate": "2025-12-02",
+  "icon": "https://media.licdn.com/dms/image/v2/D4E0BAQEn_YqXZx76VA/company-logo_200_200/company-logo_200_200/0/1706114154998?e=2147483647&v=beta&t=gNVd-NNaesElQkGaudI19lw1ddfMAxfqmidOzPBvBjk"
+}

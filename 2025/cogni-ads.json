@@ -1,0 +1,19 @@
+{
+  "name": "Cogni Ads",
+  "url": "https://cogniads.co",
+  "description": "Our AI watches trends, competitors, and your post performance daily, then generates and evolves winning ad creatives that get better the longer you use it",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "50% off lifetime deals with code BFCM2025",
+  "code": "BFCM2025",
+  "price": {
+    "regular": 149,
+    "sale": 74,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-18",
+  "endDate": "2025-12-02"
+}

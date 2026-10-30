@@ -1,0 +1,17 @@
+{
+  "name": "Audionotes",
+  "url": "https://audionotes.app",
+  "description": "Capture and turn your voice recordings, text notes, images, audio files, and YouTube videos into perfect notes for meetings, journals, lectures, emails, and…",
+  "category": "ai",
+  "deal": "50% off on Audionotes Pro Annual Plan - Use Code BF2025",
+  "code": "BF2025",
+  "pricing": "subscription",
+  "price": {
+    "regular": 130,
+    "sale": 65,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-25",
+  "endDate": "2025-11-30"
+}

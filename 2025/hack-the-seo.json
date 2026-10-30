@@ -1,0 +1,20 @@
+{
+  "name": "Hack The SEO",
+  "url": "https://hacktheseo.com/black-friday/",
+  "description": "🚀 Stop guessing your SEO strategy. Hack The SEO automates topical maps, content, and semantic fixes in one platform",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "50% off annual plans plus a free 1.5h coaching call",
+  "pricing": "subscription",
+  "price": {
+    "regular": 1188,
+    "sale": 594,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-26",
+  "endDate": "2025-12-01",
+  "icon": "https://hacktheseo.com/wp-content/uploads/2023/06/Hacktheseo-referencement-google.png"
+}

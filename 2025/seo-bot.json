@@ -1,0 +1,21 @@
+{
+  "name": "SEO Bot",
+  "url": "https://seobotai.com/",
+  "description": "SEO Bot is a fully autonomous SEO system powered by a team of AI agents designed to help busy founders grow traffic without hiring writers, editors, or SEO…",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "20% OFF first payment, code JOHNRUSH",
+  "code": "JOHNRUSH",
+  "pricing": "subscription",
+  "price": {
+    "regular": 49,
+    "sale": 39,
+    "currency": "USD"
+  },
+  "discount": 20,
+  "startDate": "2025-11-21",
+  "endDate": "2025-12-07",
+  "icon": "https://unicorn-images.b-cdn.net/9fff1ea1-8a2d-4e01-9b80-8b08c04cfb59"
+}

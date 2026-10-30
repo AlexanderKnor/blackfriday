@@ -1,0 +1,21 @@
+{
+  "name": "BlogMaker",
+  "url": "https://blogmaker.app/",
+  "description": "BlogMaker is a powerful blogging tool that makes it easy to create and run a blog without installing anything",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "30% off for 3 months using code THANKS on checkout",
+  "code": "THANKS",
+  "pricing": "subscription",
+  "price": {
+    "regular": 19,
+    "sale": 13,
+    "currency": "USD"
+  },
+  "discount": 30,
+  "startDate": "2025-11-27",
+  "endDate": "2025-12-05",
+  "icon": "https://blogmaker.app/web-assets/images/blogmaker-symbol.svg"
+}

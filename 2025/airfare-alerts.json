@@ -1,0 +1,12 @@
+{
+  "name": "Airfare Alerts",
+  "url": "https://getairfarealerts.com/",
+  "description": "Airfare Alerts helps you find flight deals that match your plans, not generic price drops",
+  "category": "lifestyle",
+  "deal": "90% off Premium Annual, in the app",
+  "pricing": "subscription",
+  "discount": 90,
+  "startDate": "2025-11-21",
+  "endDate": "2025-12-02",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/09/fb/1209fbd8-88b3-7478-133c-24a4ca3e3011/Placeholder.mill/400x400bb-75.webp"
+}

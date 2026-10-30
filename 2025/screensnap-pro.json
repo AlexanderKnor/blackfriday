@@ -1,0 +1,19 @@
+{
+  "name": "ScreenSnap Pro",
+  "url": "https://www.screensnap.pro/",
+  "description": "Beautiful screenshots with stunning backgrounds and powerful annotation tools. Create, edit, and share professional-quality screenshots with ease",
+  "category": "design",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% discount on ScreenSnap Pro till the end of the year with code: EZNZQWNW",
+  "code": "EZNZQWNW",
+  "price": {
+    "regular": 19,
+    "sale": 9,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-25",
+  "endDate": "2025-12-31"
+}

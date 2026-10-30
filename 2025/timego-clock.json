@@ -1,0 +1,20 @@
+{
+  "name": "TimeGo Clock",
+  "url": "https://apps.apple.com/us/app/timego-clock/id6448658165?mt=12",
+  "description": "TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow",
+  "category": "productivity",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "One purchase 50% off",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 4,
+    "sale": 2,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2025-11-20",
+  "endDate": "2025-12-02",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/18/08/791808c8-47d9-42be-19ac-bba601069eaa/Placeholder.mill/400x400bb-75.webp"
+}

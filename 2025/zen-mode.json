@@ -1,0 +1,18 @@
+{
+  "name": "Zen Mode",
+  "url": "https://zenmode.app",
+  "description": "Avoid those awkward moments in public places or in presentation meetings in 1-click",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "55% OFF - One time purchase",
+  "price": {
+    "regular": 34,
+    "sale": 15,
+    "currency": "USD"
+  },
+  "discount": 55,
+  "startDate": "2025-11-18",
+  "endDate": "2025-12-02"
+}
