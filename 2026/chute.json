@@ -1,0 +1,14 @@
+{
+  "name": "Chute",
+  "url": "https://appsbymo.app/chute/",
+  "description": "A drop tray for Mac: shake a file while you drag it, then one key zips, resizes, converts, renames, AirDrops or sends it to your other Mac",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://appsbymo.app/assets/icons/chute%402x.png"
+}

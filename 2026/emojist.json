@@ -1,0 +1,14 @@
+{
+  "name": "Emojist",
+  "url": "https://appsbymo.app/emojist/",
+  "description": "Type a word anywhere on your Mac and matching emoji appear above the cursor; press a number to swap one in",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://appsbymo.app/assets/icons/emojist%402x.png"
+}

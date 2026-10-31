@@ -1,0 +1,14 @@
+{
+  "name": "Mo",
+  "url": "https://appsbymo.app/mo/",
+  "description": "A little character on your Mac: ask in your own words, typed or spoken, and it tidies files, plans your day and drafts replies, asking first",
+  "category": "ai",
+  "platforms": ["mac"],
+  "deal": "50% off with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://appsbymo.app/assets/icons/mo%402x.png"
+}

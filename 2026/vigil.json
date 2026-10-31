@@ -1,0 +1,14 @@
+{
+  "name": "Vigil",
+  "url": "https://appsbymo.app/vigil/",
+  "description": "Keeps your MacBook awake with the lid closed while Claude Code, Codex, a build or an export runs, then sleeps the moment it's done",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://appsbymo.app/assets/icons/vigil%402x.png"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "What Happened",
+  "url": "https://appsbymo.app/whathappened/",
+  "description": "Tells you in plain words why your Mac is slow, hot or full, and fixes it with your OK",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://appsbymo.app/assets/icons/whathappened%402x.png"
+}
