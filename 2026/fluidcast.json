@@ -1,0 +1,19 @@
+{
+  "name": "FluidCast",
+  "url": "https://fluidcastapp.com/event.html",
+  "description": "Podcast player with offline listening, local files and cloud sync",
+  "category": "media",
+  "platforms": [
+    "mac",
+    "ios",
+    "ipad",
+    "android",
+    "windows",
+    "linux"
+  ],
+  "deal": "50% off your first year of Pro Annual or a one-time Lifetime purchase",
+  "discount": 50,
+  "startDate": "2026-11-05",
+  "endDate": "2026-11-30",
+  "icon": "https://fluidcastapp.com/favicon/android-chrome-512x512.png"
+}
