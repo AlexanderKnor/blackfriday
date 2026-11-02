@@ -6,9 +6,9 @@
   "platforms": [
     "web"
   ],
-  "deal": "50% OFF. Auto-applied",
+  "deal": "50% OFF for the first 100 customers. Auto-applied",
   "pricing": "one-time",
   "discount": 50,
-  "startDate": "2026-11-01",
-  "endDate": "2026-12-31"
+  "startDate": "2026-11-15",
+  "endDate": "2026-12-05"
 }
