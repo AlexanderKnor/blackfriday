@@ -1,0 +1,13 @@
+{
+  "name": "DevUtils",
+  "url": "https://devutils.com",
+  "description": "All-in-one offline toolbox for developers on macOS",
+  "category": "developer-tools",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off with code BLACKFRIDAY2026",
+  "code": "BLACKFRIDAY2026",
+  "discount": 50,
+  "icon": "https://devutils.com/apple.png"
+}

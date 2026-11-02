@@ -1,0 +1,14 @@
+{
+  "name": "TypingMind",
+  "url": "https://www.typingmind.com",
+  "description": "Chat UI for ChatGPT, Claude, Gemini and other models with your own API key, with MCP, agents and projects",
+  "category": "ai",
+  "platforms": [
+    "web"
+  ],
+  "deal": "60% off lifetime license with code BLACKFRIDAY2026",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "lifetime",
+  "discount": 60,
+  "icon": "https://www.typingmind.com/apple-icon-180x180.png"
+}
