@@ -1,7 +1,7 @@
 {
   "name": "FluidCast",
   "url": "https://fluidcastapp.com/event.html",
-  "description": "Podcast player with offline listening, local files and cloud sync",
+  "description": "Cross-platform podcast player with cloud sync, plus Pro AI ad detection and chapter generation on supported devices",
   "category": "media",
   "platforms": [
     "mac",
