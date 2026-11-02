@@ -3,7 +3,7 @@
   "url": "https://apps.apple.com/app/apple-store/id1502903102?pt=118141355&ct=indiegoodies-bf26&mt=8",
   "description": "A simple to-do list that grows into Kanban boards, custom workflows and shared projects, on iPhone, iPad, Mac and Apple Watch",
   "category": "productivity",
-  "platforms": ["ios", "ipad", "mac", "watch"],
+  "platforms": ["ios", "ipad", "mac", "watch", "vision"],
   "deal": "$39.99/yr -> $19.99/yr, $59.99 -> $29.99 lifetime",
   "startDate": "2026-11-23",
   "endDate": "2026-12-02",
