@@ -1,0 +1,14 @@
+{
+  "name": "ShipAhead",
+  "url": "https://shipahe.ad",
+  "description": "Ship your SaaS in a weekend with Nuxt Starter Kit",
+  "category": "developer-tools",
+  "platforms": [
+    "web"
+  ],
+  "deal": "50% OFF. Auto-applied",
+  "pricing": "one-time",
+  "discount": 50,
+  "startDate": "2026-11-01",
+  "endDate": "2026-12-31"
+}
