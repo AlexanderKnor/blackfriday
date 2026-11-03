@@ -1,0 +1,14 @@
+{
+  "name": "Our Family Album",
+  "url": "https://ourfamilyalbum.com/",
+  "description": "Share your children's photos privately with family, in the app or with read-only browser links for grandparents",
+  "category": "media",
+  "platforms": ["ios", "ipad"],
+  "deal": "50% off yearly, no code needed",
+  "pricing": "subscription",
+  "price": { "regular": 49.99, "sale": 24.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://ourfamilyalbum.com/assets/icon-512.png"
+}
