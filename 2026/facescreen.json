@@ -1,0 +1,15 @@
+{
+  "name": "FaceScreen",
+  "url": "https://facescreen.app",
+  "description": "Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls",
+  "category": "media",
+  "platforms": ["mac", "ios", "ipad"],
+  "deal": "30% off with code FACESCREEN30 (direct purchase from the website)",
+  "code": "FACESCREEN30",
+  "pricing": "one-time",
+  "price": { "regular": 5.99, "sale": 4.19, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-18",
+  "endDate": "2026-12-02",
+  "icon": "https://raw.githubusercontent.com/rampatra/assets/main/FaceScreen/Icons/icon_256x256.png"
+}
