@@ -1,0 +1,15 @@
+{
+  "name": "SmoothCapture",
+  "url": "https://www.smoothcapture.app/pricing",
+  "description": "SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models",
+  "category": "media",
+  "platforms": ["mac"],
+  "deal": "50% off Lifetime ($74.50) and Personal ($39.50) with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "pricing": "lifetime",
+  "price": { "regular": 149, "sale": 74.50, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-03",
+  "endDate": "2026-12-02",
+  "icon": "https://www.smoothcapture.app/presskit/icon-512.png"
+}
