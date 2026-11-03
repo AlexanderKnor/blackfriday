@@ -1,0 +1,15 @@
+{
+  "name": "anon.li",
+  "url": "https://anon.li/pricing",
+  "description": "Open-source email aliases, end-to-end encrypted file sharing and encrypted forms",
+  "category": "utilities",
+  "platforms": ["web"],
+  "deal": "40% off all paid plans for 12 months with code BLKFRI40",
+  "code": "BLKFRI40",
+  "pricing": "subscription",
+  "price": { "regular": 69.49, "sale": 41.69, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-02",
+  "endDate": "2026-12-06",
+  "icon": "https://anon.li/android-chrome-512x512.png"
+}
