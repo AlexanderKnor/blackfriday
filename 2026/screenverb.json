@@ -1,0 +1,15 @@
+{
+  "name": "ScreenVerb",
+  "url": "https://screenverb.com/pricing",
+  "description": "Screenshot tool for Mac, iPhone and iPad with a quick editor, scrolling capture and AI actions on every capture",
+  "category": "productivity",
+  "platforms": ["mac", "ios", "ipad"],
+  "deal": "50% off lifetime Pro with code SVBF2026",
+  "code": "SVBF2026",
+  "pricing": "lifetime",
+  "price": { "regular": 39, "sale": 19.50, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-02",
+  "endDate": "2026-12-05",
+  "icon": "https://screenverb.com/apple-touch-icon.png"
+}
