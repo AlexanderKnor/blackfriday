@@ -1,0 +1,14 @@
+{
+  "name": "Habit Pixel",
+  "url": "https://habitpixel.com/get",
+  "description": "Habit tracker that colors a pixel for every check-in. Streak goals, reminders and home screen widgets, offline with no account needed",
+  "category": "productivity",
+  "platforms": ["ios", "android"],
+  "deal": "33% off Lifetime, applied automatically in the app",
+  "pricing": "lifetime",
+  "price": { "regular": 29.99, "sale": 19.99, "currency": "USD" },
+  "discount": 33,
+  "startDate": "2026-11-19",
+  "endDate": "2026-12-02",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/5e/b2/5c5eb238-21bc-4446-0f2b-d86c06541998/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}
