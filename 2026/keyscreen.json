@@ -1,0 +1,15 @@
+{
+  "name": "KeyScreen",
+  "url": "https://keyscreen.app",
+  "description": "Shows the keys you press on screen, for tutorials, streams, and live demos",
+  "category": "media",
+  "platforms": ["mac"],
+  "deal": "30% off with code KEYSCREEN30 (direct purchase from the website)",
+  "code": "KEYSCREEN30",
+  "pricing": "one-time",
+  "price": { "regular": 5.99, "sale": 4.19, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-18",
+  "endDate": "2026-12-02",
+  "icon": "https://raw.githubusercontent.com/rampatra/assets/main/KeyScreen/Icons/icon_256x256.png"
+}
