@@ -1,0 +1,15 @@
+{
+  "name": "Chronoid",
+  "url": "https://www.chronoid.app/pricing",
+  "description": "Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off Lifetime ($74.50) and Personal ($49.50) with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "pricing": "lifetime",
+  "price": { "regular": 149, "sale": 74.50, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-03",
+  "endDate": "2026-12-02",
+  "icon": "https://www.chronoid.app/app-icon.png"
+}
