@@ -1,0 +1,15 @@
+{
+  "name": "MouseUp",
+  "url": "https://mouseup.app/pricing",
+  "description": "External mouse utility for macOS with click debounce, zoom with the wheel and better button handling",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off lifetime with code MMFBF2026",
+  "code": "MMFBF2026",
+  "pricing": "lifetime",
+  "price": { "regular": 7.99, "sale": 4.00, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-02",
+  "endDate": "2026-12-05",
+  "icon": "https://mouseup.app/apple-touch-icon.png"
+}
