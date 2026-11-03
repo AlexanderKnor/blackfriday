@@ -1,0 +1,14 @@
+{
+  "name": "Atmos",
+  "url": "https://atmos.style/?utm_source=indiegoodies&utm_campaign=bf2026",
+  "description": "Color palette tool for UI design with perceptually uniform OKLCH shades, WCAG and APCA contrast checks, and Figma sync",
+  "category": "design",
+  "platforms": ["web"],
+  "deal": "50% off lifetime with code BF2026, then 40% off with CM2026 from Nov 30",
+  "code": "BF2026",
+  "pricing": "lifetime",
+  "price": { "regular": 159, "sale": 79.50, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-06"
+}
