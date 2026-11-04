@@ -5,6 +5,8 @@
     "category": "media",
     "platforms": ["ios", "ipad"],
     "deal": "50% off on Monthly plan for 3 months",
+    "price": { "regular": 3.99, "sale": 1.99, "currency": "USD" },
+    "discount": 50,
     "startDate": "2026-11-03",
     "endDate": "2026-12-05",
     "icon": "https://www.appsketch.in/glossycam/GlossyCam-App-Icon.png"
