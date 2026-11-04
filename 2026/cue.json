@@ -1,0 +1,22 @@
+{
+  "name": "Cue",
+  "url": "https://apps.apple.com/app/id6805111378?pt=510909&ct=indie-goodies-blackfriday&mt=8",
+  "description": "Turn text, messages and screenshots into tasks with on-device AI, then send them to your favorite task manager.",
+  "category": "productivity",
+  "platforms": [
+    "ios",
+    "ipad"
+  ],
+  "deal": "25% off Cue Pro with code BLACKFRIDAY2026",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 24.99,
+    "sale": 18.90,
+    "currency": "USD"
+  },
+  "discount": 25,
+  "startDate": "2026-11-19",
+  "endDate": "2026-12-31",
+  "icon": "https://onthr.ee/wp-content/uploads/2026/09/cue-app-icon-small.png"
+}

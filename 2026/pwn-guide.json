@@ -1,0 +1,13 @@
+{
+  "name": "pwn.guide",
+  "url": "https://pwn.guide/pricing",
+  "description": "Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training",
+  "category": "education",
+  "platforms": ["web"],
+  "deal": "20% off all plans forever, including lifetime, with code BLKFRI20",
+  "code": "BLKFRI20",
+  "discount": 20,
+  "startDate": "2026-11-01",
+  "endDate": "2026-12-05",
+  "icon": "https://pwn.guide/android-chrome-512x512.png"
+}

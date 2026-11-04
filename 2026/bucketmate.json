@@ -1,0 +1,15 @@
+{
+  "name": "BucketMate",
+  "url": "https://www.bucketmate.app/pricing",
+  "description": "Native S3 client for Mac, iPhone and web that works with AWS S3, Cloudflare R2, Backblaze B2, MinIO and more",
+  "category": "developer-tools",
+  "platforms": ["mac", "ios", "web"],
+  "deal": "40% off lifetime with code BF2026",
+  "code": "BF2026",
+  "pricing": "lifetime",
+  "price": { "regular": 39, "sale": 23.40, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-02",
+  "endDate": "2026-12-01",
+  "icon": "https://www.bucketmate.app/apple-touch-icon.png"
+}

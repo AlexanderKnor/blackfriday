@@ -1,0 +1,14 @@
+{
+    "name": "GlossyCam",
+    "url": "https://offers.revenueflo.com/nnh2fB",
+    "description": "A lipstick mirror for your front camera. Pick a shade and it paints your lips in real time as you talk and smile, without touching teeth or skin.",
+    "category": "media",
+    "platforms": ["ios", "ipad"],
+    "deal": "50% off on Monthly plan for 3 months",
+    "price": { "regular": 3.99, "sale": 1.99, "currency": "USD" },
+    "discount": 50,
+    "startDate": "2026-11-03",
+    "endDate": "2026-12-05",
+    "icon": "https://www.appsketch.in/glossycam/GlossyCam-App-Icon.png"
+  }
+  

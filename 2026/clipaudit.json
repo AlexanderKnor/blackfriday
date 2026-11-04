@@ -1,0 +1,20 @@
+{
+  "name": "ClipAudit",
+  "url": "https://clipaudit.app",
+  "description": "Clipboard manager for Mac that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard",
+  "category": "developer-tools",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "40% off with code BLACKFRIDAY2026",
+  "code": "BLACKFRIDAY2026",
+  "price": {
+    "regular": 29,
+    "sale": 17.40,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://clipaudit.app/assets/icon.png"
+}

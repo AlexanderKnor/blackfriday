@@ -1,0 +1,14 @@
+{
+  "name": "Photo Booth App",
+  "url": "https://thephotoboothapp.com/",
+  "description": "Turn an iPad or iPhone into a photo booth for weddings, parties and events, with photos, GIFs, guest sharing and AirPrint printing",
+  "category": "media",
+  "platforms": ["ios", "ipad"],
+  "deal": "50% off yearly, no code needed",
+  "pricing": "subscription",
+  "price": { "regular": 99.99, "sale": 49.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://thephotoboothapp.com/shared/favicon/apple-icon-180x180.png"
+}

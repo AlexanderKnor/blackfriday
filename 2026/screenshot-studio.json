@@ -1,0 +1,21 @@
+{
+  "name": "Screenshot Studio",
+  "url": "https://appstorescreenshotstudio.com/?ref=indie-goodies",
+  "description": "Turn plain screenshots into App Store-ready ones: templates, localization and direct upload to App Store Connect. One stop for App Store screenshots",
+  "category": "design",
+  "platforms": [
+    "mac",
+    "ios"
+  ],
+  "deal": "Up to 50% off subscriptions, 33% off Lifetime",
+  "pricing": "subscription",
+  "price": {
+    "regular": 54.9,
+    "sale": 27.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-04",
+  "endDate": "2026-12-01",
+  "icon": "https://appstorescreenshotstudio.com/img/logo.png"
+}

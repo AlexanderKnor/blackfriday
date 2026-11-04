@@ -1,0 +1,14 @@
+{
+  "name": "Digital Photo Frame",
+  "url": "https://digitalphotoframeapp.com/",
+  "description": "Turn your iPhone, iPad, Mac or Apple TV into a smart photo frame with slideshows of your albums",
+  "category": "media",
+  "platforms": ["ios", "ipad", "mac", "tv"],
+  "deal": "50% off yearly, no code needed",
+  "pricing": "subscription",
+  "price": { "regular": 19.99, "sale": 9.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://digitalphotoframeapp.com/shared/favicon/apple-icon-180x180.png"
+}

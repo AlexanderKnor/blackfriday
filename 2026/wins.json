@@ -1,0 +1,12 @@
+{
+  "name": "Wins",
+  "url": "https://wins.cool/",
+  "description": "Windows-like window management for Mac with Dock previews and keyboard shortcuts",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "40% off all plans with code BF_26",
+  "code": "BF_26",
+  "discount": 40,
+  "startDate": "2026-11-11",
+  "endDate": "2026-12-01"
+}

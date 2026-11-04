@@ -1,0 +1,14 @@
+{
+  "name": "Email Me",
+  "url": "https://emailmeapp.net/",
+  "description": "Send voice and text notes, to-dos and reminders straight to your own inbox in one tap",
+  "category": "productivity",
+  "platforms": ["ios", "ipad", "mac", "watch", "vision"],
+  "deal": "23% off yearly, no code needed",
+  "pricing": "subscription",
+  "price": { "regular": 12.99, "sale": 9.99, "currency": "USD" },
+  "discount": 23,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://emailmeapp.net/shared/favicon/apple-icon-180x180.png"
+}

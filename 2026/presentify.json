@@ -1,0 +1,15 @@
+{
+  "name": "Presentify",
+  "url": "https://presentifyapp.com",
+  "description": "Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom, for presentations, calls, demos, and teaching",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "30% off with code PRESENTIFY30 (direct purchase from the website)",
+  "code": "PRESENTIFY30",
+  "pricing": "one-time",
+  "price": { "regular": 14, "sale": 9.80, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-18",
+  "endDate": "2026-12-02",
+  "icon": "https://raw.githubusercontent.com/rampatra/assets/main/Presentify/Icons/icon_256.png"
+}
