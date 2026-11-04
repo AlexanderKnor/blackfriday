@@ -4,11 +4,11 @@
   "description": "Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them",
   "category": "productivity",
   "platforms": ["mac"],
-  "deal": "50% off with code BLACKFRIDAY; App Store price also halved",
+  "deal": "50% off with code BLACKFRIDAY; App Store price halved Nov 27-30",
   "code": "BLACKFRIDAY",
   "pricing": "one-time",
   "discount": 50,
-  "startDate": "2026-11-27",
-  "endDate": "2026-11-30",
+  "startDate": "2026-11-09",
+  "endDate": "2026-12-01",
   "icon": "https://appsbymo.app/assets/icons/wick%402x.png"
 }

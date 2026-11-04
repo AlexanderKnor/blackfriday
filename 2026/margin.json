@@ -4,11 +4,11 @@
   "description": "Menu-bar day planner: type a plain sentence and it becomes an Apple Reminder or Calendar event on a live day timeline",
   "category": "productivity",
   "platforms": ["mac", "ios"],
-  "deal": "50% off with code BLACKFRIDAY; App Store price also halved",
+  "deal": "50% off with code BLACKFRIDAY; App Store price halved Nov 27-30",
   "code": "BLACKFRIDAY",
   "pricing": "one-time",
   "discount": 50,
-  "startDate": "2026-11-27",
-  "endDate": "2026-11-30",
+  "startDate": "2026-11-09",
+  "endDate": "2026-12-01",
   "icon": "https://appsbymo.app/assets/icons/margin%402x.png"
 }
