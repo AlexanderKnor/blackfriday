@@ -1,0 +1,15 @@
+{
+  "name": "Aba Search and Replace",
+  "url": "https://www.abareplace.com",
+  "description": "Regular expression search and replace, convert dates and timestamps, encode/decode Base64, URL encoding, and JWT tokens",
+  "category": "developer-tools",
+  "platforms": ["windows"],
+  "deal": "50% off lifetime with code Sale2026",
+  "code": "Sale2026",
+  "pricing": "lifetime",
+  "price": { "regular": 30, "sale": 15, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-03",
+  "endDate": "2026-12-31",
+  "icon": "https://www.abareplace.com/logo_128.png"
+}
