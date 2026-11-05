@@ -6,6 +6,7 @@
   "platforms": ["web"],
   "deal": "Up to 40% off lifetime access, discount auto-applied on site",
   "pricing": "lifetime",
+  "discount": 40,
   "startDate": "2026-11-23",
   "endDate": "2026-12-01",
   "icon": "https://codedvisuals.com/favicon.png"
