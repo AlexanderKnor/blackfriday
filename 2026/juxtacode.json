@@ -1,0 +1,15 @@
+{
+  "name": "JuxtaCode",
+  "url": "https://juxtacode.app/black-friday/",
+  "description": "Compare Git branches and resolve merge conflicts with ease on macOS",
+  "category": "developer-tools",
+  "platforms": ["mac"],
+  "deal": "40% off with code BLACKFRIDAY26, direct purchase only",
+  "code": "BLACKFRIDAY26",
+  "pricing": "one-time",
+  "price": { "regular": 40, "sale": 24, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://juxtacode.app/favicon/apple-touch-icon.png"
+}
