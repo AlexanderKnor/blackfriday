@@ -9,6 +9,5 @@
   "pricing": "lifetime",
   "price": { "regular": 9.99, "sale": 5.99, "currency": "USD" },
   "discount": 40,
-  "startDate": "2026-11-05",
   "endDate": "2026-11-30"
 }
