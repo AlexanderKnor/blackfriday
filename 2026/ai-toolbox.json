@@ -1,0 +1,15 @@
+{
+  "name": "AI Toolbox",
+  "url": "https://www.ai-toolbox.co/pricing",
+  "description": "Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok",
+  "category": "ai",
+  "platforms": ["chrome"],
+  "deal": "50% off Lifetime and All Access Lifetime with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "lifetime",
+  "price": { "regular": 99, "sale": 49.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-02",
+  "endDate": "2026-11-30",
+  "icon": "https://www.ai-toolbox.co/apple-icon-180x180.png"
+}
