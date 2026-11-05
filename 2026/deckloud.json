@@ -1,0 +1,14 @@
+{
+  "name": "Deckloud",
+  "url": "https://deckloud.com/black-friday/",
+  "description": "Native Nextcloud Deck app for iPhone, iPad, Android, Mac, Windows and Linux, with offline sync to your own server",
+  "category": "productivity",
+  "platforms": ["ios", "ipad", "android", "mac", "windows", "linux"],
+  "deal": "40% off Pro Lifetime, no code on the App Store and Google Play",
+  "pricing": "lifetime",
+  "price": { "regular": 39, "sale": 22.99, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-02",
+  "icon": "https://deckloud.com/apple-icon.png"
+}
