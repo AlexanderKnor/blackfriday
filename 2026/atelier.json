@@ -1,0 +1,14 @@
+{
+  "name": "Atelier",
+  "url": "https://appsbymo.app/atelier/",
+  "description": "A Mac studio your AI coding sessions work in: every app's tasks, releases, feedback and memory, with a brief each time a session starts",
+  "category": "developer-tools",
+  "platforms": ["mac"],
+  "deal": "50% off with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "discount": 50,
+  "startDate": "2026-11-09",
+  "endDate": "2026-12-01",
+  "icon": "https://appsbymo.app/assets/icons/atelier%402x.png"
+}

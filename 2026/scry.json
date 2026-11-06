@@ -1,0 +1,15 @@
+{
+  "name": "Scry",
+  "url": "https://appsbymo.app/scry/",
+  "description": "Captures, annotates and files screenshots, records your screen, and makes the text in every image on your Mac searchable",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "price": { "regular": 24.0, "sale": 12.0, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-09",
+  "endDate": "2026-12-01",
+  "icon": "https://appsbymo.app/assets/icons/scry%402x.png"
+}

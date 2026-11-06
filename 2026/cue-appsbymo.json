@@ -1,0 +1,15 @@
+{
+  "name": "Cue",
+  "url": "https://appsbymo.app/cue/",
+  "description": "Menu-bar writing assistant that drafts and proofreads replies inside Messages, Mail, Slack and WhatsApp, and remembers who you write to",
+  "category": "writing",
+  "platforms": ["mac"],
+  "deal": "50% off with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "price": { "regular": 29.0, "sale": 14.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-09",
+  "endDate": "2026-12-01",
+  "icon": "https://appsbymo.app/assets/icons/cue%402x.png"
+}

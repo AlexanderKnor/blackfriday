@@ -1,0 +1,14 @@
+{
+  "name": "Pinvoy",
+  "url": "https://appsbymo.app/pinvoy/",
+  "description": "Opens any shared map link, from Google Maps, Waze, Apple Maps and more, at the exact place in the navigation app you drive with",
+  "category": "utilities",
+  "platforms": ["ios"],
+  "deal": "50% off on the App Store, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 2.99, "sale": 1.49, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-09",
+  "endDate": "2026-12-01",
+  "icon": "https://appsbymo.app/assets/icons/pinvoy%402x.png"
+}

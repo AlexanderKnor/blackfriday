@@ -1,0 +1,14 @@
+{
+  "name": "Thurayya",
+  "url": "https://appsbymo.app/thurayya/",
+  "description": "A Mac launcher that learns your routine: press a key and the apps, folders, files and sites you need next are already there",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "discount": 50,
+  "startDate": "2026-11-09",
+  "endDate": "2026-12-01",
+  "icon": "https://appsbymo.app/assets/icons/thurayya%402x.png"
+}
