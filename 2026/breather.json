@@ -1,0 +1,15 @@
+{
+  "name": "Breather",
+  "url": "https://indiegoodies.com/breather",
+  "description": "Gentle break reminders for Mac to rest your eyes, stretch and stand up, pausing while you're busy",
+  "category": "lifestyle",
+  "platforms": ["mac"],
+  "deal": "50% off lifetime with code INDIEGOODIESBF26",
+  "code": "INDIEGOODIESBF26",
+  "pricing": "lifetime",
+  "price": { "regular": 14.99, "sale": 7.49, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-07",
+  "icon": "https://indiegoodies.com/icons/breather.png"
+}

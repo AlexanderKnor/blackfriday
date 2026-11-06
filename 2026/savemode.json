@@ -1,0 +1,14 @@
+{
+  "name": "SaveMode",
+  "url": "https://indiegoodies.com/savemode",
+  "description": "Menu bar data usage monitor for Mac that blocks the apps you choose on your mobile hotspot",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off lifetime with code INDIEGOODIESBF26",
+  "code": "INDIEGOODIESBF26",
+  "pricing": "lifetime",
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-07",
+  "icon": "https://indiegoodies.com/icons/savemode.png"
+}

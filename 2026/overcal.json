@@ -1,0 +1,15 @@
+{
+  "name": "Overcal",
+  "url": "https://indiegoodies.com/overcal",
+  "description": "Your calendar in the menu bar: month view, agenda, world clocks and one-click meeting joins",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off lifetime with code INDIEGOODIESBF26",
+  "code": "INDIEGOODIESBF26",
+  "pricing": "lifetime",
+  "price": { "regular": 7.99, "sale": 3.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-07",
+  "icon": "https://indiegoodies.com/icons/overcal.png"
+}
