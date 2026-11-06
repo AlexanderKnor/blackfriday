@@ -1,0 +1,15 @@
+{
+  "name": "Rapidemo",
+  "url": "https://getrapidemo.com/pricing",
+  "description": "Screen recorder for Windows with auto-zoom, cursor smoothing, camera layouts and studio voice",
+  "category": "media",
+  "platforms": ["windows"],
+  "deal": "30% off the first year of the yearly plan with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "pricing": "subscription",
+  "price": { "regular": 108, "sale": 75.6, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-19",
+  "endDate": "2026-12-02",
+  "icon": "https://getrapidemo.com/images/logo.png"
+}
