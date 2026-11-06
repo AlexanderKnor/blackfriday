@@ -1,0 +1,14 @@
+{
+  "name": "ExtraBar",
+  "url": "https://extrabar.app",
+  "description": "ExtraBar lets you create a customized menu bar utilizing custom actions, deep links, shortcuts and automations. Perfect to reclaim back your crowded menu bar",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off lifetime with code BLACK2026FRIDAY50",
+  "code": "BLACK2026FRIDAY50",
+  "pricing": "lifetime",
+  "discount": 50,
+  "startDate": "2026-11-12",
+  "endDate": "2026-12-01",
+  "icon": "https://extrabar.app/apple-touch-icon.png"
+}

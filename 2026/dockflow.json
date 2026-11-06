@@ -1,0 +1,14 @@
+{
+  "name": "DockFlow",
+  "url": "https://dockflowapp.io",
+  "description": "DockFlow lets you switch between macOS dock presets, save a setup for any type of work and set up your workspace with a single click",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "50% off lifetime with code BLACK2026FRIDAY50",
+  "code": "BLACK2026FRIDAY50",
+  "pricing": "lifetime",
+  "discount": 50,
+  "startDate": "2026-11-12",
+  "endDate": "2026-12-01",
+  "icon": "https://dockflowapp.io/apple-touch-icon.png"
+}
