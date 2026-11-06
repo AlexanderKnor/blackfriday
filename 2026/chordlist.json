@@ -1,7 +1,7 @@
 {
   "name": "chordlist",
   "url": "https://apps.apple.com/us/app/chordlist-personal-songbook/id6798344297",
-  "description": "Personal songbook of lyrics and chords stored as Markdown files, with transposing, autoscroll and no account",
+  "description": "Personal songbook for lyrics and chords stored as text files, with transposing, autoscroll and no account or subscription",
   "category": "media",
   "platforms": ["ios", "ipad"],
   "deal": "Unlimited songs for €2.99 instead of €6.99 with code BLACKFRIDAY2026",
