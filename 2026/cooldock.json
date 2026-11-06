@@ -1,0 +1,15 @@
+{
+  "name": "CoolDock",
+  "url": "https://cooldock.app",
+  "description": "CoolDock adds a customizable second Dock beside your Mac's own, with 160+ live widgets and 150+ wallpapers",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off lifetime with code BLACK2026FRIDAY50",
+  "code": "BLACK2026FRIDAY50",
+  "pricing": "lifetime",
+  "price": { "regular": 39.99, "sale": 19.99, "currency": "EUR" },
+  "discount": 50,
+  "startDate": "2026-11-12",
+  "endDate": "2026-12-01",
+  "icon": "https://cooldock.app/apple-touch-icon.png"
+}

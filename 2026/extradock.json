@@ -1,0 +1,15 @@
+{
+  "name": "ExtraDock",
+  "url": "https://extradock.app",
+  "description": "ExtraDock lets you create more docks on macOS - perfect for multiple monitors. Duplicate your default macOS dock or replace it entirely",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "50% off lifetime with code BLACK2026FRIDAY50",
+  "code": "BLACK2026FRIDAY50",
+  "pricing": "lifetime",
+  "price": { "regular": 39.99, "sale": 19.99, "currency": "EUR" },
+  "discount": 50,
+  "startDate": "2026-11-12",
+  "endDate": "2026-12-01",
+  "icon": "https://extradock.app/apple-touch-icon.png"
+}

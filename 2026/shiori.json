@@ -1,0 +1,14 @@
+{
+  "name": "Shiori",
+  "url": "https://shioriapp.io",
+  "description": "A keyboard-first bookmark manager in your macOS menu bar. Tags, folders, saved filters and full-text search, synced to every device",
+  "category": "productivity",
+  "platforms": ["mac", "web", "chrome"],
+  "deal": "50% off lifetime with code BLACK2026FRIDAY50",
+  "code": "BLACK2026FRIDAY50",
+  "pricing": "lifetime",
+  "discount": 50,
+  "startDate": "2026-11-12",
+  "endDate": "2026-12-01",
+  "icon": "https://shioriapp.io/favicon-192.png"
+}
