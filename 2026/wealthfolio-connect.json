@@ -1,0 +1,19 @@
+{
+  "name": "Wealthfolio Connect",
+  "url": "https://wealthfolio.app/connect/",
+  "description": "Encrypted device sync and backups for Wealthfolio; Essentials and Duo add automatic imports from supported brokerages",
+  "category": "business",
+  "platforms": [
+    "mac",
+    "ios",
+    "windows",
+    "linux",
+    "web"
+  ],
+  "deal": "35% off first year of annual Basic, Essentials & Duo; code BLACKFRIDAY35",
+  "code": "BLACKFRIDAY35",
+  "pricing": "subscription",
+  "discount": 35,
+  "startDate": "2026-11-15",
+  "endDate": "2026-11-30"
+}
