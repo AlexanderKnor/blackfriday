@@ -89,5 +89,6 @@ npm run validate
 
 ## Pull requests
 
-- One deal per pull request (several products from the same maker are fine in one).
+- At most two deals per pull request. The check fails if a pull request adds more, so open
+  another pull request for the rest.
 - Fill in the pull request template.

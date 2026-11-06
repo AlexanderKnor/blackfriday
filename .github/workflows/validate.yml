@@ -25,9 +25,22 @@ jobs:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
+          # Two commits: on a pull request HEAD is the merge commit and HEAD^1 is the base branch.
+          fetch-depth: 2
       - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
           node-version: 24
           package-manager-cache: false
       - run: npm ci --ignore-scripts --no-audit --no-fund
       - run: node scripts/validate.mjs
+      - name: At most 2 new deals per pull request
+        if: github.event_name == 'pull_request'
+        run: |
+          added=$(git diff --name-only --diff-filter=A HEAD^1 HEAD -- ':(glob)20[0-9][0-9]/*.json')
+          count=$(printf '%s' "$added" | grep -c . || true)
+          if [ "$count" -gt 2 ]; then
+            echo "::error::This pull request adds $count deals. Add at most 2 per pull request:"
+            echo "$added"
+            exit 1
+          fi
+          echo "OK: $count new deal(s)."
