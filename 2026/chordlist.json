@@ -1,14 +1,13 @@
 {
   "name": "chordlist",
-  "url": "https://apps.apple.com/us/app/chordlist-personal-songbook/id6798344297",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6798344297&code=BLACKFRIDAY2026",
   "description": "Personal songbook for lyrics and chords stored as text files, with transposing, autoscroll and no account or subscription",
   "category": "media",
   "platforms": ["ios", "ipad"],
-  "deal": "Unlimited songs for €2.99 instead of €6.99 with code BLACKFRIDAY2026",
+  "deal": "€2.99 instead of €6.99 in Germany with code BLACKFRIDAY2026, regional prices vary",
   "code": "BLACKFRIDAY2026",
   "pricing": "one-time",
   "price": { "regular": 6.99, "sale": 2.99, "currency": "EUR" },
-  "discount": 57,
   "startDate": "2026-11-05",
   "endDate": "2026-12-06",
   "icon": "https://chordlist.app/apple-icon.png"
