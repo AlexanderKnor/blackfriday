@@ -1,0 +1,14 @@
+{
+  "name": "Outpublished",
+  "url": "https://outpublished.com/black-friday",
+  "description": "Shows content and SEO teams every page their competitors have that they don't, and each new one they publish",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "40% off all paid plans while you stay subscribed, first 150 accounts",
+  "pricing": "subscription",
+  "price": { "regular": 39, "sale": 23, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-04",
+  "icon": "https://outpublished.com/static/apple-touch-icon.png"
+}
