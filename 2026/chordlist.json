@@ -4,7 +4,7 @@
   "description": "Personal songbook for lyrics and chords stored as text files, with transposing, autoscroll and no account or subscription",
   "category": "media",
   "platforms": ["ios", "ipad"],
-  "deal": "€2.99 instead of €6.99 in Germany with code BLACKFRIDAY2026, regional prices vary",
+  "deal": "Unlimited songs: €2.99 once instead of €6.99 (Germany) with BLACKFRIDAY2026, prices vary",
   "code": "BLACKFRIDAY2026",
   "pricing": "one-time",
   "price": { "regular": 6.99, "sale": 2.99, "currency": "EUR" },
