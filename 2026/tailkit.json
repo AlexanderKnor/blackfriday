@@ -1,0 +1,13 @@
+{
+  "name": "Tailkit",
+  "url": "https://tailkit.com",
+  "description": "2,000+ responsive Tailwind CSS UI components for React, Vue.js, Laravel, Alpine.js and HTML, with an MCP server for AI-powered development",
+  "category": "developer-tools",
+  "platforms": ["web"],
+  "deal": "Up to 60% off lifetime access, discount auto-applied on site",
+  "pricing": "lifetime",
+  "discount": 60,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-01",
+  "icon": "https://tailkit.com/favicon.png"
+}
