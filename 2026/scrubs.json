@@ -1,0 +1,15 @@
+{
+  "name": "Scrubs",
+  "url": "https://getscrubs.app/?ref=indiegoodies",
+  "description": "Disk space analyzer for Mac: a treemap of your drive, developer cache cleanup, and deletes that go to the Trash first",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "40% off, one-time license for 3 Macs",
+  "code": "BLACKFRIDAY26",
+  "pricing": "one-time",
+  "price": { "regular": 14.99, "sale": 8.99, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://getscrubs.app/media/scrubs-icon-512.png"
+}
