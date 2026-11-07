@@ -1,0 +1,12 @@
+{
+  "name": "Get Your First Client",
+  "url": "https://getyourfirstclient.freelancerpath.com/?ref=blackfriday",
+  "description": "Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client",
+  "category": "education",
+  "platforms": ["web"],
+  "deal": "50% off with code BLACK, limited redemptions",
+  "code": "BLACK",
+  "pricing": "one-time",
+  "price": { "regular": 49.99, "sale": 24.99, "currency": "USD" },
+  "discount": 50
+}
