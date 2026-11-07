@@ -1,0 +1,14 @@
+{
+  "name": "SnowWall",
+  "url": "https://snowwall.app",
+  "description": "Weather on the Mac desktop: snow settles on your windows and slides off when you drag them, rain fogs the glass, frost grows in from the edges",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "33% off SnowWall Pro, a one-time in-app purchase, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 14.99, "sale": 9.99, "currency": "USD" },
+  "discount": 33,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://snowwall.app/press/snowwall-icon-1024.png"
+}
