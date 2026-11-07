@@ -1,0 +1,21 @@
+{
+  "name": "FluidCast",
+  "url": "https://fluidcastapp.com/event.html",
+  "description": "Cross-platform podcast player with cloud sync, plus Pro AI ad detection and chapter generation on supported devices",
+  "category": "media",
+  "platforms": [
+    "mac",
+    "ios",
+    "ipad",
+    "android",
+    "windows",
+    "linux"
+  ],
+  "deal": "50% off Lifetime Pro (iOS: BLACKFRIDAY2026LT); 50% off Annual's first year",
+  "code": "BLACKFRIDAY2026LT",
+  "pricing": "lifetime",
+  "discount": 50,
+  "startDate": "2026-11-05",
+  "endDate": "2026-11-30",
+  "icon": "https://fluidcastapp.com/favicon/android-chrome-512x512.png"
+}
