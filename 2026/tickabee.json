@@ -1,0 +1,15 @@
+{
+  "name": "Tickabee",
+  "url": "https://tickabee.com/black-friday-2026",
+  "description": "Social media scheduler: draft posts with AI in ChatGPT or Claude, or write them yourself, then approve and schedule to all your accounts",
+  "category": "marketing",
+  "deal": "50% off on any plan, from $9.50/mo to $495",
+  "platforms": ["web"],
+  "code": "OFF50",
+  "pricing": "subscription",
+  "price": { "regular": 19, "sale": 9.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://tickabee.com/assets/tickabee-icon-512.png"
+}
