@@ -1,0 +1,14 @@
+{
+  "name": "Sip",
+  "url": "https://sipapp.io/pricing/",
+  "description": "Sip is a modern color picker that brings ease to color organization and team collaboration",
+  "category": "design",
+  "platforms": ["mac"],
+  "deal": "50% off on purchase",
+  "code": "BLACKFRIDAY26",
+  "pricing": "lifetime",
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://www.sipapp.io/assets/img/app/512.png"
+}
