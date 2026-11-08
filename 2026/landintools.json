@@ -1,0 +1,12 @@
+{
+  "name": "LandinTools",
+  "url": "https://tools.landin.page/advertise?ref=blackfriday",
+  "description": "Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "50% off a one-year Featured listing with code BF2026",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": { "regular": 49, "sale": 24.5, "currency": "USD" },
+  "discount": 50
+}
