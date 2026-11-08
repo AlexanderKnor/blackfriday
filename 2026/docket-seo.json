@@ -1,0 +1,11 @@
+{
+  "name": "Docket SEO",
+  "url": "https://docketseo.app/",
+  "description": "SEO audit app that runs on your own computer, for Mac, Windows and a Linux command line",
+  "category": "marketing",
+  "platforms": ["mac", "windows", "linux"],
+  "deal": "50% off: $29.50 once through 30 November, $59 from 1 December",
+  "pricing": "one-time",
+  "startDate": "2026-11-01",
+  "endDate": "2026-11-30"
+}
