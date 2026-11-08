@@ -1,0 +1,13 @@
+{
+  "name": "Sponsonizer",
+  "url": "https://sponsonizer.com",
+  "description": "Sell newsletter sponsorships without the email back-and-forth: sponsors pick a slot, fill in their ad and pay with Stripe",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "50% off the first year of Pro Yearly with code BF2026",
+  "code": "BF2026",
+  "pricing": "subscription",
+  "price": { "regular": 99, "sale": 49.5, "currency": "USD" },
+  "discount": 50,
+  "endDate": "2026-11-30"
+}
