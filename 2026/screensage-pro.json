@@ -1,0 +1,20 @@
+{
+  "name": "ScreenSage Pro",
+  "url": "https://screensage.pro/bf2026",
+  "description": "Native macOS screen recorder and editor with auto zoom, cursor tracking and camera layouts for polished tutorials and software demos",
+  "category": "media",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "Up to 53% off one-time licenses with codes BFS2026L and BFS2026P",
+  "code": "BFS2026L",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 449,
+    "sale": 209.9,
+    "currency": "USD"
+  },
+  "discount": 53,
+  "startDate": "2026-11-04",
+  "endDate": "2026-12-15"
+}
