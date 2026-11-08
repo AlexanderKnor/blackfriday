@@ -1,0 +1,15 @@
+{
+  "name": "Posteady",
+  "url": "https://www.posteady.com/black-friday?promo=BF26&utm_source=indiegoodies&utm_medium=referral&utm_campaign=bf2026",
+  "description": "AI social media workspace that turns a link or idea into carousels, Reels and Shorts and schedules them to Threads, Instagram, X, LinkedIn, TikTok and more",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "50% off annual plans with code BF26, price kept while you stay annual",
+  "code": "BF26",
+  "pricing": "subscription",
+  "price": { "regular": 348, "sale": 174, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-03",
+  "icon": "https://media.posteady.com/admin-emails/1794171652883_ftwclqd58.png"
+}
