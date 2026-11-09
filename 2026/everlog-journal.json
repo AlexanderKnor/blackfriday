@@ -1,0 +1,22 @@
+{
+  "name": "Everlog Journal",
+  "url": "https://apps.apple.com/app/everlog-journal/id1519935634",
+  "description": "Private journal for iPhone, iPad and Mac: Markdown entries, photos, places, moods and workouts, synced through iCloud",
+  "category": "writing",
+  "platforms": [
+    "ios",
+    "ipad",
+    "mac"
+  ],
+  "deal": "50% off Premium Lifetime and the first year of Yearly",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 59.99,
+    "sale": 29.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://everlog.app/apple-touch-icon.png"
+}
