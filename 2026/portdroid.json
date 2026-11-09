@@ -1,0 +1,15 @@
+{
+  "name": "PortDroid",
+  "url": "https://portdroid.net/sale",
+  "description": "Android network toolkit: port scanner, ping, traceroute, DNS, WHOIS, LAN discovery, WiFi analyser and certificate inspection",
+  "category": "developer-tools",
+  "platforms": ["android"],
+  "deal": "50% off Pro Lifetime, one-time purchase",
+  "code": "CYBER_2026",
+  "pricing": "lifetime",
+  "price": { "regular": 9.49, "sale": 4.69, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-05",
+  "endDate": "2026-12-04",
+  "icon": "https://portdroid.net/images/portdroid-icon.png"
+}
