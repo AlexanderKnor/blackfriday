@@ -1,0 +1,22 @@
+{
+  "name": "Fileside",
+  "url": "https://www.fileside.app/?ref=igbf",
+  "description": "A slick file manager for Mac & Windows with unlimited panes. Create workspaces for your projects. Build layouts of your folders",
+  "category": "utilities",
+  "platforms": [
+    "mac",
+    "windows"
+  ],
+  "code": "BLKFRD26",
+  "deal": "50% off a lifetime Duo license during Black Friday week",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 33,
+    "sale": 16.50,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-30",
+  "icon": "https://data.fileside.app/logos/logo2_512.png"
+}
