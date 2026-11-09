@@ -1,0 +1,14 @@
+{
+  "name": "PDF Pals",
+  "url": "https://pdfpals.com/buy",
+  "description": "Chat with your PDF, Word, Excel, PowerPoint, EPUB and Markdown files on Mac, with cited answers and local AI models",
+  "category": "productivity",
+  "platforms": ["mac"],
+  "deal": "Lifetime $149 (was $249), 20% off Basic and Plus with code BF20",
+  "code": "BF20",
+  "pricing": "lifetime",
+  "price": { "regular": 249, "sale": 149, "currency": "USD" },
+  "discount": 40,
+  "endDate": "2026-12-01",
+  "icon": "https://boltai.com/assets/bf/pdfpals-icon.png"
+}

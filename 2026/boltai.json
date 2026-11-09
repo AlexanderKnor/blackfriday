@@ -1,0 +1,14 @@
+{
+  "name": "BoltAI",
+  "url": "https://boltai.com/pricing",
+  "description": "Native AI workspace for Mac with ChatGPT, Claude, Gemini and local AI models, plus agents that browse in Chrome",
+  "category": "ai",
+  "platforms": ["mac", "ios"],
+  "deal": "40% off every plan, Lifetime $239.40 with code BFCM2026",
+  "code": "BFCM2026",
+  "pricing": "lifetime",
+  "price": { "regular": 399, "sale": 239.4, "currency": "USD" },
+  "discount": 40,
+  "endDate": "2026-12-01",
+  "icon": "https://boltai.com/assets/bf/boltai-icon-dark.png"
+}
