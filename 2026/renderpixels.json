@@ -1,0 +1,12 @@
+{
+  "name": "RenderPixels",
+  "url": "https://renderpixels.com",
+  "description": "MCP server that lets Claude, ChatGPT or other assistants that support remote MCP and OAuth make marketing images, like Open Graph images, social posts and logos",
+  "category": "design",
+  "platforms": ["web"],
+  "deal": "20% off any credit pack with code BF2026, credits never expire",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "discount": 20,
+  "endDate": "2026-11-30"
+}
