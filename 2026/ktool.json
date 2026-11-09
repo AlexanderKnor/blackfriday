@@ -1,0 +1,13 @@
+{
+  "name": "KTool",
+  "url": "https://ktool.io/pricing",
+  "description": "Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone",
+  "category": "productivity",
+  "platforms": ["web", "chrome", "ios", "android"],
+  "deal": "Lifetime $149 (was $179), no code needed",
+  "pricing": "lifetime",
+  "price": { "regular": 179, "sale": 149, "currency": "USD" },
+  "discount": 17,
+  "endDate": "2026-12-01",
+  "icon": "https://boltai.com/assets/bf/ktool-icon.png"
+}
