@@ -1,0 +1,14 @@
+{
+  "name": "Vinaa",
+  "url": "https://www.vinaa.ai/?utm_source=indiegoodies",
+  "description": "Native AI Chat for Mac",
+  "category": "ai",
+  "platforms": ["mac"],
+  "deal": "Lifetime access for 2 Macs: $39 (was $70)",
+  "pricing": "lifetime",
+  "price": { "regular": 70, "sale": 39, "currency": "USD" },
+  "discount": 44,
+  "startDate": "2026-11-06",
+  "endDate": "2026-11-30",
+  "icon": "https://www.vinaa.ai/press/vinaa-app-icon-1024.png"
+}
