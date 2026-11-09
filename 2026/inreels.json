@@ -1,0 +1,16 @@
+{
+  "name": "inReels",
+  "url": "https://www.inreels.ai/pricing",
+  "description": "AI ad generator: paste a product link and get UGC video ads, static ads and product videos with script, voiceover and captions",
+  "category": "marketing",
+  "platforms": [
+    "web"
+  ],
+  "deal": "50% off all yearly plans with code BLACKFRIDAY2026",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "subscription",
+  "discount": 50,
+  "startDate": "2026-10-31",
+  "endDate": "2026-12-01",
+  "icon": "https://cdn.inreels.ai/blog/black-friday-ads-2026/inreels-logo-512.png"
+}
