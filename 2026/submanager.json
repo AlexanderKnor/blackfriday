@@ -1,0 +1,14 @@
+{
+  "name": "SubManager",
+  "url": "https://submanager.app",
+  "description": "Track subscriptions across your Apple devices and never miss a renewal.",
+  "category": "business",
+  "platforms": ["mac", "ios", "ipad", "watch", "vision", "web"],
+  "deal": "50% off SubManager+",
+  "pricing": "lifetime",
+  "price": { "regular": 9.99, "sale": 4.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://submanager.app/assets/logo.png"
+}
