@@ -1,0 +1,16 @@
+{
+  "name": "Pretty Progress",
+  "url": "https://prettyprogress.app/download",
+  "description": "Beautiful countdown and progress bar widgets to visualise and track your events and deadlines",
+  "category": "productivity",
+  "deal": "50% off lifetime, applied in-app; no code needed",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 59.99,
+    "sale": 29.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01"
+}

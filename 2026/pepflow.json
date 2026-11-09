@@ -1,0 +1,16 @@
+{
+  "name": "PepFlow",
+  "url": "https://pepflow.app/download",
+  "description": "Track your peptide routine with dose history, flexible schedules, and reminders",
+  "category": "lifestyle",
+  "deal": "50% off the first year of the annual plan, applied in-app; no code needed",
+  "pricing": "subscription",
+  "price": {
+    "regular": 29.99,
+    "sale": 14.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01"
+}
