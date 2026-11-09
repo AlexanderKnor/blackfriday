@@ -6,7 +6,7 @@
   "platforms": ["mac"],
   "deal": "50% off on purchase",
   "code": "BLACKFRIDAY26",
-  "pricing": "lifetime",
+  "pricing": "one-time",
   "discount": 50,
   "startDate": "2026-11-27",
   "endDate": "2026-12-01",
