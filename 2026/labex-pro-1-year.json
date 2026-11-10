@@ -1,0 +1,14 @@
+{
+  "name": "LabEx Pro (1 Year)",
+  "url": "https://labex.io/checkout?type=2&coupon=2026BF30",
+  "description": "Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud",
+  "category": "education",
+  "platforms": [
+    "web"
+  ],
+  "deal": "30% off one-year membership for new and existing users",
+  "code": "2026BF30",
+  "pricing": "subscription",
+  "discount": 30,
+  "endDate": "2026-12-07"
+}
