@@ -1,0 +1,14 @@
+{
+  "name": "Comic Weather",
+  "url": "https://apps.apple.com/app/apple-store/id6816097524?pt=129027920&ct=bf26-indiegoodies&mt=8",
+  "description": "Weather app for iPhone that turns your forecast into a comic book page, painted in four comic skins with three narrators",
+  "category": "lifestyle",
+  "platforms": ["ios"],
+  "deal": "67% off: $2.99 → $0.99, one-time purchase, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 2.99, "sale": 0.99, "currency": "USD" },
+  "discount": 67,
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-30",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/2e/05/ce2e05af-c444-746f-acc8-67b6368818f7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg"
+}
