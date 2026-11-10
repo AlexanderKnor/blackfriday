@@ -1,0 +1,14 @@
+{
+  "name": "NewsNinja",
+  "url": "https://apps.apple.com/app/id6504148117",
+  "description": "News reader that brings RSS, YouTube, Reddit, podcasts, newsletters and social feeds together, with AI summaries and a Today dashboard",
+  "category": "productivity",
+  "platforms": ["ios", "ipad", "mac", "vision"],
+  "deal": "50% off NewsNinja+ Lifetime",
+  "pricing": "lifetime",
+  "price": { "regular": 29.99, "sale": 14.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-05",
+  "icon": "https://ainews.ninja/app-icon.png"
+}
