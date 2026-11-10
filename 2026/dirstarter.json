@@ -1,0 +1,15 @@
+{
+  "name": "Dirstarter",
+  "url": "https://dirstarter.com/?discountCode=BF2026",
+  "description": "Next.js directory template with built-in payments, SEO and an MCP server for AI agents. Pay once, launch unlimited directories",
+  "category": "developer-tools",
+  "platforms": ["web"],
+  "deal": "50% off lifetime license with code BF2026",
+  "code": "BF2026",
+  "pricing": "lifetime",
+  "price": { "regular": 150, "sale": 75, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-10",
+  "endDate": "2026-12-01",
+  "icon": "https://dirstarter.com/apple-touch-icon.png"
+}
