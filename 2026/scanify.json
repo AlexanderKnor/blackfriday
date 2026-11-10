@@ -1,0 +1,15 @@
+{
+  "name": "Scanify",
+  "url": "https://scanify.to/pricing",
+  "description": "Check a link, file, QR code or IP before you open it: 95+ antivirus engines, domain age, redirects and a sandbox screenshot",
+  "category": "utilities",
+  "platforms": ["web"],
+  "deal": "50% off Lifetime Pro with code BLACKFRIDAY",
+  "code": "BLACKFRIDAY",
+  "pricing": "lifetime",
+  "price": { "regular": 29, "sale": 14.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-10",
+  "endDate": "2026-12-09",
+  "icon": "https://scanify.to/favicon.png"
+}
