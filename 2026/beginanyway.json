@@ -1,0 +1,14 @@
+{
+  "name": "BeginAnyway",
+  "url": "https://apps.apple.com/us/app/beginanyway/id6811712330",
+  "description": "A morning alarm for people who freeze on the first step, with one tiny task to start the day",
+  "category": "productivity",
+  "platforms": ["ios", "ipad"],
+  "deal": "37% off Plus Lifetime, applied automatically in the App Store",
+  "pricing": "lifetime",
+  "price": { "regular": 39.99, "sale": 24.99, "currency": "USD" },
+  "discount": 37,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/e6/7a/89e67ab9-48d3-7e49-cebd-d6c7518bbe53/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}
