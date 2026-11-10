@@ -1,0 +1,15 @@
+{
+  "name": "Broadcast",
+  "url": "https://sendbroadcast.net/black-friday",
+  "description": "Self-hosted email marketing: newsletters, automations and transactional email on your own server, with unlimited subscribers",
+  "category": "marketing",
+  "platforms": ["linux", "web"],
+  "deal": "$100 off the one-time Regular License with code BLACKFRIDAY26",
+  "code": "BLACKFRIDAY26",
+  "pricing": "one-time",
+  "price": { "regular": 250, "sale": 150, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-09",
+  "endDate": "2026-12-01",
+  "icon": "https://sendbroadcast.net/android-chrome-512x512.png"
+}
