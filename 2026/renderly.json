@@ -1,0 +1,15 @@
+{
+  "name": "Renderly",
+  "url": "https://renderly.video/pricing?code=BLACKFRIDAY2026",
+  "description": "Video rendering API: send a JSON template and your data, get an MP4 back. Browser editor, AI captions and voiceover, Zapier, Make and MCP",
+  "category": "media",
+  "platforms": ["web"],
+  "deal": "30% off the first payment of Creator or Business with code BLACKFRIDAY2026",
+  "code": "BLACKFRIDAY2026",
+  "pricing": "subscription",
+  "price": { "regular": 29, "sale": 20.3, "currency": "USD" },
+  "discount": 30,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://renderly.video/logo.png"
+}
