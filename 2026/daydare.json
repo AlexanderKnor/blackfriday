@@ -1,0 +1,14 @@
+{
+  "name": "DayDare",
+  "url": "https://apps.apple.com/app/apple-store/id6812487022?pt=129284730&ct=bf-indiegoodies&mt=8",
+  "description": "Social confidence practice for shy people: one small real-life mission a day, the words to say before you go, and a journal of how it really went",
+  "category": "lifestyle",
+  "platforms": ["ios", "ipad", "watch"],
+  "deal": "57% off: $6.99 → $2.99, one-time purchase, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 6.99, "sale": 2.99, "currency": "USD" },
+  "discount": 57,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01",
+  "icon": "https://daydare.app/apple-touch-icon.png"
+}
