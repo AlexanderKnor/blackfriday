@@ -1,0 +1,22 @@
+{
+  "name": "Mailflare",
+  "url": "https://mailflare.co/#pricing",
+  "description": "Self-hosted Google Workspace alternative: custom-domain email, calendar, booking, drive and AI agents, with a native Mac app",
+  "category": "productivity",
+  "platforms": [
+    "mac",
+    "web"
+  ],
+  "deal": "40% off Pro and Team lifetime licenses",
+  "code": "OMYBF2026",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 29,
+    "sale": 17.4,
+    "currency": "USD"
+  },
+  "discount": 40,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-02",
+  "icon": "https://mailflare.co/icon-192.png"
+}
